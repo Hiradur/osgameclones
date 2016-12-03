@@ -173,6 +173,34 @@
     development: active
     lang: C++
     updated: 2015-04-03
+    
+- name: [GTR series, GTR – FIA GT Racing Game]
+  names:
+    - GTR
+    - GTR 2
+    - GTR Evolution
+    - rFactor
+    - Live For Speed
+  meta:
+    genre: [Driving/Racing]
+    subgenre: []
+    theme: [] 
+  clones:
+    - name: Speed Dreams
+      repo: https://sourceforge.net/p/speed-dreams/code/HEAD/tree/
+      url: http://www.speed-dreams.org
+      development: active
+      status: playable
+      lang: [C++]
+      framework: [TORCS engine]
+      license: [GPL2]
+      updated: 2016-12-03
+      images:
+      - http://www.speed-dreams.org/images/sd-20/speed-dreams-20-car-ls1.jpg
+      - http://www.speed-dreams.org/images/sd-20/speed-dreams-20-track-corkscrew.jpg
+      - http://www.speed-dreams.org/images/sd-20/speed-dreams-20-daytime-night.jpg
+      video:
+        youtube: nXgHBZfng7c
 
 - name: Guitar Hero
   remakes:
