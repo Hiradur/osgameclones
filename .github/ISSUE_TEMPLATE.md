@@ -1,29 +1,4 @@
+Adding a new game? Try the web forms here:
 
-
-New game
-
-```yaml
-- name:
-  names:
-    -
-  meta:
-    genre: []
-    subgenre: []
-    theme: []
-  remakes:
-    - name:
-      repo:
-      url:
-      development:
-      status:
-      lang: []
-      framework: []
-      license:
-      info:
-      updated:
-      images:
-        -
-      video:
-        youtube:
-        vimeo:
-```
+- Game: https://cxong.github.io/pykwalify-webform/osgameclones/game.html
+- Add original game: https://cxong.github.io/pykwalify-webform/osgameclones/original.html

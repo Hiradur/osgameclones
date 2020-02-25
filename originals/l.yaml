@@ -1,0 +1,168 @@
+- name: Ladder
+  external:
+    wikipedia: Ladder (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Larn
+  external:
+    wikipedia: Larn (video game)
+  meta:
+    genre:
+    - Roguelike
+
+- name: Legend of Zelda
+  external:
+    wikipedia: Legend of Zelda
+  meta:
+    genre:
+    - Action
+    - Adventure
+
+- name: Legend of Zelda - A Link to the Past
+  external:
+    wikipedia: 'The Legend of Zelda: A Link to the Past'
+  meta:
+    genre:
+    - Action
+    - Adventure
+
+- name: 'The Legend of Zelda: The Wind Waker'
+  names:
+  - Wind Waker
+  external:
+    wikipedia: 'The Legend of Zelda: The Wind Waker'
+  platform:
+  - GameCube
+  meta:
+    genre:
+    - Action
+    - Adventure
+
+- name: Legion
+  external:
+    website: http://www.mobygames.com/game/legion__
+  meta:
+    genre:
+    - Adventure
+
+- name: Lego Rock Raiders
+  external:
+    wikipedia: Lego Rock Raiders (video game)
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Lemmings
+  external:
+    wikipedia: Lemmings (video game)
+  meta:
+    genre:
+    - Puzzle
+
+- name: Liberation Day
+  names:
+  - 'Fallen Haven: Liberation Day'
+  - Fallen Haven 2
+  external:
+    wikipedia: Liberation Day (video game)
+  platform:
+  - Windows
+  meta:
+    genre:
+    - Turn-Based Strategy
+    theme:
+    - Modern Military
+    - Sci-Fi
+
+- name: Liero
+  external:
+    wikipedia: Liero
+  meta:
+    genre:
+    - Platform
+    - Shmup
+
+- name: Lionheart
+  external:
+    wikipedia: Lionheart (video game)
+  meta:
+    genre:
+    - Platform
+    - Action
+
+- name: Little Big Adventure
+  external:
+    wikipedia: Little Big Adventure
+  meta:
+    genre:
+    - Adventure
+
+- name: Little Fighter 2
+  external:
+    wikipedia: Little Fighter 2
+  meta:
+    genre:
+    - Fighting
+  names:
+  - LF2
+
+- name: Locomotion (Amiga 1992)
+  external:
+    website: http://www.mobygames.com/game/locomotion
+  meta:
+    genre:
+    - Arcade
+    - Puzzle
+
+- name: Lode Runner
+  external:
+    wikipedia: Lode Runner
+  meta:
+    genre:
+    - Arcade
+
+- name: Log!cal
+  external:
+    website: http://hol.abime.net/906
+  meta:
+    genre:
+    - Puzzle
+
+- name: Lose Your Marbles
+  external:
+    wikipedia: Sega Puzzle Pack
+  meta:
+    genre:
+    - Puzzle
+
+- name: Lotus Esprit Turbo Challenge
+  external:
+    wikipedia: Lotus (series)
+  meta:
+    genre:
+    - Racing
+
+- name: 'Lugaru: The Rabbit''s Foot'
+  external:
+    wikipedia: Lugaru
+  meta:
+    genre:
+    - Action
+
+- name: Lumines
+  external:
+    wikipedia: Lumines
+  meta:
+    genre:
+    - Puzzle
+
+- name: Lunar Lander
+  external:
+    wikipedia: Lunar Lander (1979 video game)
+  platform:
+  - Arcade
+  meta:
+    genre:
+    - Simulation

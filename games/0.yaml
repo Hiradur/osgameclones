@@ -1,0 +1,113 @@
+- name: 0 A.D.
+  images:
+  - https://play0ad.com/wp-content/gallery/screenshots/screenshot0088.png
+  - https://play0ad.com/wp-content/gallery/screenshots/screenshot0072.jpg
+  - https://play0ad.com/wp-content/gallery/screenshots/water-depth-rendering.jpg
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: active
+  originals:
+  - Age of Empires
+  repo: https://trac.wildfiregames.com/timeline
+  status: playable
+  type: clone
+  url: https://play0ad.com/
+  feed: http://feeds.feedburner.com/0adrevisions
+  multiplayer:
+  - Online
+  - LAN
+  content: open
+  updated: 2019-04-15
+  video:
+    youtube: SjDNRgVAdkc
+
+- name: 1oom
+  development: complete
+  framework:
+  - SDL
+  - SDL2
+  - Allegro
+  images:
+  - https://kilgoretroutmaskreplicant.gitlab.io/plain-html/pic01.png
+  - https://kilgoretroutmaskreplicant.gitlab.io/plain-html/pic02.png
+  - https://kilgoretroutmaskreplicant.gitlab.io/plain-html/pic03.png
+  lang:
+  - C
+  license:
+  - GPL2
+  content: commercial
+  originals:
+  - Master of Orion
+  repo: https://gitlab.com/KilgoreTroutMaskReplicant/1oom
+  status: playable
+  type: remake
+  updated: 2019-04-15
+  url: https://kilgoretroutmaskreplicant.gitlab.io/plain-html/
+
+- name: 2006-rebotted
+  originals:
+  - Runescape Classic
+  type: remake
+  repo: 'https://github.com/dginovker/2006rebotted'
+  url: 'https://2006rebotted.tk'
+  development: active
+  status: playable
+  multiplayer:
+    - Competitive
+    - Online
+    - Co-op
+  content: commercial
+  lang:
+  - Java
+  license:
+    - BSD2
+  info: Open source 2006 Runescape emulation with botting
+  updated: 2019-10-14
+  images:
+    - 'https://i.imgur.com/X9SS8ep.png'
+    - 'https://i.imgur.com/HxIctfS.png'
+    - 'https://i.imgur.com/iDbwd2C.png'
+
+- name: 3d.city
+  framework:
+  - three.js
+  - Sea3D
+  lang:
+  - JavaScript
+  license:
+  - GPL3
+  development: halted
+  originals:
+  - Simcity
+  repo: https://github.com/lo-th/3d.city
+  type: clone
+  updated: 2019-04-15
+  url: https://lo-th.github.io/3d.city/index.html
+  status: playable
+  content: open
+  images:
+  - http://lo-th.github.io/3d.city/img/preview01.jpg
+  - http://lo-th.github.io/3d.city/img/preview02.jpg
+  - http://lo-th.github.io/3d.city/img/preview03.jpg
+
+- name: 4DTris
+  lang:
+  - C
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Tetris
+  repo: https://bazaar.launchpad.net/~4dtris-dev/4dtris/trunk/files
+  type: clone
+  updated: 2019-04-15
+  url: https://sourceforge.net/projects/dtris/
+  status: playable
+  framework:
+  - SDL
+  - OpenGL
+  content: open
+  video:
+    youtube: WO9SNW5Tp7A

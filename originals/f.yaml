@@ -1,0 +1,222 @@
+- name: F-1 Spirit
+  external:
+    wikipedia: F-1 Spirit (series)
+  meta:
+    genre:
+    - Sports
+    - Racing
+    theme:
+    - Motorsports
+
+- name: F-Zero
+  external:
+    wikipedia: F-Zero
+  meta:
+    genre:
+    - Racing
+
+- name: Fade to Black
+  external:
+    wikipedia: Fade to Black (video game)
+  meta:
+    genre:
+    - Action
+    - Adventure
+
+- name: Falcon
+  external:
+    wikipedia: Falcon (video game series)
+  meta:
+    genre:
+    - Simulation
+
+- name: Fall Down
+  external:
+    website: http://www.mobygames.com/game/fall-down
+  meta:
+    genre:
+    - Arcade
+
+- name: Fallout 2
+  external:
+    wikipedia: Fallout 2
+  meta:
+    genre:
+    - RPG
+
+- name: 'Fallout 3: Van Buren'
+  external:
+    wikipedia: Van Buren (video game)
+  meta:
+    genre:
+    - RPG
+
+- name: Fallout Online
+  external:
+    wikipedia: Fallout Online
+  meta:
+    genre:
+    - MMORPG
+
+- name: 'Fallout Tactics: Brotherhood of Steel'
+  external:
+    wikipedia: 'Fallout Tactics: Brotherhood of Steel'
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Fantastic Journey
+  external:
+    wikipedia: Fantastic Parodius - Pursue the Glory of the Past
+  meta:
+    genre:
+    - Shmup
+  names:
+  - "Gokuj\u014D Parodius!"
+  - Fantastic Parodius - Pursue the Glory of the Past
+
+- name: Final Fantasy VII
+  external:
+    wikipedia: Final Fantasy VII
+  meta:
+    genre:
+    - RPG
+
+- name: Final Fantasy VIII
+  external:
+    wikipedia: Final Fantasy VIII
+  meta:
+    genre:
+    - RPG
+
+- name: Final Fight
+  external:
+    wikipedia: Final_Fight
+  meta:
+    genre:
+    - Action
+
+- name: Fire Power
+  external:
+    wikipedia: Fire Power
+  meta:
+    genre:
+    - Action
+  platform:
+  - Amiga
+  - Commodore 64
+  - DOS
+
+- name: Flag Catcher
+  external:
+    website: http://hol.abime.net/5578
+  meta:
+    genre:
+    - Puzzle
+
+- name: Flappy Bird
+  external:
+    wikipedia: Flappy Bird
+  meta:
+    genre:
+    - Arcade
+    - Platform
+
+- name: Flashback
+  external:
+    wikipedia: Flashback (1992 video game)
+  meta:
+    genre:
+    - Adventure
+    - Platform
+
+- name: Floor 13
+  external:
+    wikipedia: Floor 13 (video game)
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Flying Shark
+  external:
+    wikipedia: Flying Shark
+  meta:
+    genre:
+    - Shmup
+
+- name: Football Manager
+  external:
+    wikipedia: Football Manager (1982 series)
+  meta:
+    genre:
+    - Simulation
+    - Strategy
+    - Sports
+    subgenre:
+    - Soccer
+    theme:
+    - Management
+
+- name: 'Forgotten Realms: Unlimited Adventures'
+  external:
+    wikipedia: 'Forgotten Realms: Unlimited Adventures'
+  meta:
+    genre:
+    - RPG
+
+- name: Forsaken
+  external:
+    wikipedia: Forsaken (video game)
+  meta:
+    genre:
+    - FPS
+    theme:
+    - Sci-Fi
+    - Post-Apocalyptic
+
+- name: Freelancer
+  external:
+    wikipedia: Freelancer (video game)
+  meta:
+    genre:
+    - Action
+    - Simulation
+    - TPS
+    theme:
+    - Sci-Fi
+
+- name: FreeSpace 2
+  external:
+    wikipedia: FreeSpace 2
+  meta:
+    genre:
+    - Action
+    - Simulation
+    theme:
+    - Sci-Fi
+
+- name: Frog!
+  external:
+    website: http://www.mobygames.com/game/frog
+  meta:
+    genre:
+    - Arcade
+  names:
+  - Back To Nature
+
+- name: Frogger
+  external:
+    wikipedia: Frogger
+  meta:
+    genre:
+    - Arcade
+
+- name: Frogs and Flies
+  external:
+    wikipedia: Frogs and Flies
+  meta:
+    genre:
+    - Arcade
+  names:
+  - Frog Bog
+

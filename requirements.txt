@@ -1,3 +1,0 @@
-cyrax==2.7
-pyyaml
-pykwalify

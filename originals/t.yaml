@@ -1,0 +1,541 @@
+- name: Taiko no Tatsujin
+  external:
+    wikipedia: Taiko no Tatsujin
+  platform:
+  - Arcade
+  meta:
+    genre:
+    - Rhythm
+
+- name: Team Fortress 2
+  names:
+  - TF2
+  external:
+    wikipedia: Team Fortress 2
+  platform:
+  - Linux
+  - OSX
+  - PlayStation 3
+  - Windows
+  - Xbox 360
+  meta:
+    genre:
+    - FPS
+
+- name: TekWar
+  names:
+  - William Shatner's TekWar
+  external:
+    wikipedia: Tekwar (game)
+  platform:
+  - DOS
+  meta:
+    genre:
+    - FPS
+    theme:
+    - Sci-Fi
+
+- name: Tempest
+  external:
+    wikipedia: Tempest (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Terraria
+  external:
+    wikipedia: Terraria
+  meta:
+    genre:
+    - Action
+    - Platform
+    subgenre:
+    - Survival
+    - Sandbox
+    theme:
+    - Fantasy
+
+- name: Test Drive
+  external:
+    wikipedia: Test Drive (video game)
+  meta:
+    genre:
+    - Racing
+
+- name: Tetris
+  external:
+    wikipedia: Tetris
+  meta:
+    genre:
+    - Puzzle
+    - Arcade
+
+- name: Tetris Attack
+  external:
+    wikipedia: Tetris Attack
+  meta:
+    genre:
+    - Puzzle
+    - Arcade
+
+- name: The Adventures of Robbo
+  external:
+    wikipedia: The Adventures of Robbo
+  meta:
+    genre:
+    - Puzzle
+
+- name: The Binding of Isaac
+  external:
+    wikipedia: The Binding of Isaac (video game)
+  meta:
+    genre:
+    - Roguelike
+
+- name: The Castles of Dr. Creep
+  external:
+    wikipedia: The Castles of Dr. Creep
+  meta:
+    genre:
+    - Arcade
+
+- name: The Clue!
+  external:
+    wikipedia: The Clue!
+  meta:
+    genre:
+    - Adventure
+
+- name: 'The Elder Scrolls II: Daggerfall'
+  external:
+    wikipedia: 'The Elder Scrolls II: Daggerfall'
+  meta:
+    genre:
+    - RPG
+
+- name: 'The Elder Scrolls III: Morrowind'
+  external:
+    wikipedia: 'The Elder Scrolls III: Morrowind'
+  meta:
+    genre:
+    - RPG
+    theme:
+    - Fantasy
+
+- name: 'The Elder Scrolls: Arena'
+  external:
+    wikipedia: 'The Elder Scrolls: Arena'
+  meta:
+    genre:
+    - RPG
+
+- name: The Goonies
+  external:
+    wikipedia: The Goonies (video game)
+  meta:
+    genre:
+    - Platform
+
+- name: The Great Escape
+  external:
+    wikipedia: The Great Escape (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: The Great Giana Sisters
+  external:
+    wikipedia: The Great Giana Sisters
+  meta:
+    genre:
+    - Platform
+
+- name: The Hobbit
+  external:
+    wikipedia: The Hobbit (1982 video game)
+  meta:
+    genre:
+    - Adventure
+
+- name: The Incredible Machine
+  external:
+    wikipedia: The_Incredible_Machine_(video_game)
+  meta:
+    genre:
+    - Puzzle
+    - Simulation
+
+- name: The Incredible Machine 2
+  external:
+    wikipedia: The Incredible Machine 2
+  meta:
+    genre:
+    - Puzzle
+    - Simulation
+
+- name: The Incredible Machine 3
+  external:
+    wikipedia: The Incredible Machine 3
+  meta:
+    genre:
+    - Puzzle
+    - Simulation
+
+- name: 'The Incredible Machine: Even More Contraptions'
+  external:
+    wikipedia: 'The Incredible Machine: Even More Contraptions'
+  meta:
+    genre:
+    - Puzzle
+    - Simulation
+
+- name: The Last Ninja
+  external:
+    wikipedia: The Last Ninja
+  meta:
+    genre:
+    - Action
+    - Adventure
+
+- name: The Lord of the Rings Volume 1
+  external:
+    wikipedia: J.R.R. Tolkien's The Lord of the Rings, Vol. I (1990 video game)
+  meta:
+    genre:
+    - Action
+    - RPG
+
+- name: The Lost Vikings
+  external:
+    wikipedia: The Lost Vikings
+  meta:
+    genre:
+    - Platform
+
+- name: The Maze of Galious
+  external:
+    wikipedia: The Maze of Galious
+  meta:
+    genre:
+    - Platform
+
+- name: The Need for Speed
+  external:
+    wikipedia: The Need for Speed
+  meta:
+    genre:
+    - Racing
+
+- name: The Sentinel
+  external:
+    wikipedia: The Sentinel (video game)
+  meta:
+    genre:
+    - Puzzle
+
+- name: The Settlers
+  external:
+    wikipedia: The Settlers (video game)
+  meta:
+    genre:
+    - Real-Time Strategy
+    subgenre:
+    - City Building
+    theme:
+    - Medieval
+  names:
+  - Die Siedler
+  - Serf City
+
+- name: The Settlers II
+  external:
+    wikipedia: The Settlers II
+  meta:
+    genre:
+    - Real-Time Strategy
+    subgenre:
+    - City Building
+    theme:
+    - Medieval
+    - Alternate Historical
+    - Fantasy
+  names:
+  - Die Siedler II
+
+- name: The Settlers III
+  external:
+    wikipedia: The Settlers III
+  meta:
+    genre:
+    - Real-Time Strategy
+    subgenre:
+    - City Building
+    theme:
+    - Egyptian
+    - Alternate Historical
+    - Fantasy
+  names:
+  - Die Siedler III
+  
+- name: The Sims
+  external:
+    wikipedia: The Sims
+  meta:
+    genre:
+    - Simulation
+    theme:
+    - Management
+
+- name: The Sims Online
+  external:
+    wikipedia: The Sims Online
+  meta:
+    genre:
+    - Simulation
+    theme:
+    - Management
+
+- name: 'The Simpsons: Hit & Run'
+  external:
+    wikipedia: 'The Simpsons: Hit & Run'
+  meta:
+    genre:
+    - Action
+    - Adventure
+    - Racing
+    theme:
+    - Comedy
+    - Fantasy
+
+- name: The Witcher
+  external:
+    wikipedia: The Witcher (video game)
+  meta:
+    genre:
+    - RPG
+    theme:
+    - Fantasy
+
+- name: Theme Hospital
+  external:
+    wikipedia: Theme Hospital
+  meta:
+    genre:
+    - Strategy
+    - Simulation
+    theme:
+    - Management
+    - Comedy
+
+- name: Theme Park
+  external:
+    wikipedia: Theme Park (video game)
+  meta:
+    genre:
+    - Strategy
+    - Simulation
+    theme:
+    - Management
+    - Comedy
+
+- name: Thief
+  external:
+    wikipedia: Thief (series)
+  meta:
+    genre:
+    - Action
+    - Adventure
+    theme:
+    - Crime
+    - Fantasy
+
+- name: Thimbleweed Park
+  external:
+    wikipedia: Thimbleweed Park
+  platform:
+  - Android
+  - iOS
+  - Nintendo Switch
+  - OSX
+  - PlayStation 4
+  - Windows
+  - Xbox One
+  meta:
+    genre:
+    - Adventure
+    subgenre:
+    - Point and click
+    theme:
+    - Comedy
+    - Crime
+
+- name: Thromolus
+  external:
+    website: http://hol.abime.net/1386
+  meta:
+    genre:
+    - Puzzle
+
+- name: Thrust
+  external:
+    wikipedia: Thrust (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Tiny Wings
+  external:
+    wikipedia: Tiny Wings
+  meta:
+    genre:
+    - Arcade
+
+- name: Titus the Fox
+  external:
+    wikipedia: Titus the Fox
+  meta:
+    genre:
+    - Platform
+  names:
+  - Moktar
+
+- name: Tomb Raider
+  external:
+    wikipedia: Tomb Raider
+  meta:
+    genre:
+    - Platform
+    - Adventure
+    - Action
+    
+- name: Tomb Raider Chronicles
+  names:
+  - 'Tomb Raider 5: Chronicles'
+  external:
+    wikipedia: Tomb Raider Chronicles
+  meta:
+    genre:
+    - Action
+    - TPS
+    - Adventure
+  platform:
+  - Windows
+
+- name: Toobz
+  external:
+    wikipedia: Toobz
+  meta:
+    genre:
+    - Puzzle
+  platform:
+  - Amiga
+
+- name: Total Annihilation
+  external:
+    wikipedia: Total Annihilation
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Touhou
+  external:
+    wikipedia: Touhou Project
+  meta:
+    genre:
+    - Shmup
+    subgenre:
+    - Bullet Hell
+    theme:
+    - Anime
+
+- name: TrackMania
+  external:
+    wikipedia: TrackMania
+  meta:
+    genre:
+    - Racing
+
+- name: Transplant
+  external:
+    wikipedia: Transplant (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Transport Tycoon
+  names:
+  - Transport Tycoon Deluxe
+  external:
+    wikipedia: Transport Tycoon
+  meta:
+    genre:
+    - Strategy
+    - Simulation
+    theme:
+    - Management
+
+- name: Tranz Am
+  external:
+    wikipedia: Tranz Am
+  meta:
+    genre:
+    - Arcade
+    
+- name: Tricky Towers
+  platform:
+  - Windows
+  external:
+    wikipedia: Tricky Towers
+  meta:
+    genre:
+    - Puzzle
+
+- name: Triple Triad
+  external:
+    website: http://finalfantasy.wikia.com/wiki/Triple_Triad
+  meta:
+    genre:
+    - Card Game
+
+- name: Tron
+  external:
+    wikipedia: Tron (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Turmoil
+  external:
+    wikipedia: Turmoil (1984 video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Turnabout
+  external:
+    wikipedia: Turnabout (video game)
+  meta:
+    genre:
+    - Puzzle
+
+- name: Turok
+  external:
+    wikipedia: Turok (video game)
+  meta:
+    genre:
+    - FPS
+
+- name: Turrican
+  external:
+    wikipedia: Turrican
+  meta:
+    genre:
+    - Shmup
+
+- name: Tyrian
+  external:
+    wikipedia: Tyrian (video game)
+  meta:
+    genre:
+    - Shmup
+

@@ -2,6 +2,23 @@
 
 var OSGC = window.OSGC = {};
 
+// menu
+(function() {
+  const nav = document.getElementById('nav');
+  const btns = Array.from(document.getElementsByClassName('nav-btn'));
+  nav.addEventListener('click', menuclick);
+
+  function menuclick(ev) {
+    const t = ev.target;
+
+    if (t.classList.contains('nav-btn')) {
+      const wasActive = t.parentNode.classList.contains('active');
+      btns.forEach((btn) => btn.parentNode.classList.remove('active'));
+      if (!wasActive) { t.parentNode.classList.add('active') };
+    }
+  }
+})();
+
 // gallery handling
 (function() {
   var els = document.getElementsByClassName('toggler');
@@ -101,7 +118,8 @@ var OSGC = window.OSGC = {};
 
   function highlightTags(tag) {
     var style = document.getElementById('tag-style');
-    var line = '[data-name=\"' + tag + '\"] { color: #ccc; background: #444; }';
+    var line = '.tag[data-name=\"' + tag + '\"] { color: #ccc; background-color: #444; }';
+    line += '.darkTheme .tag[data-name=\"' + tag + '\"] { color: #444; background-color: #ccc; }';
     style.innerHTML = tag ? line : '';
   }
 })();
@@ -113,7 +131,7 @@ var OSGC = window.OSGC = {};
   OSGC.validate = validate;
 
   function init() {
-    OSGC.brokenLinks = [];
+    OSGC.brokenLinks = {};
     OSGC.invalidImages = {
       forAnts: [],
       tooSmall: [],
@@ -126,14 +144,23 @@ var OSGC = window.OSGC = {};
 
   function getImages() {
     let galleries = document.getElementsByClassName('gallery-json');
+    let galleries_len = galleries.length;
     let images = [];
 
-    for (let i = 0; i < galleries.length; i += 1) {
-      let cur = galleries[i].innerHTML.trim().split(', ');
+    for (let i = 0; i < galleries_len; i += 1) {
+      let g = galleries[i];
+      let game = g.getAttribute('data-game');
+      let cur = g.innerHTML.trim().split(', ').map(
+        function addGameName(url) {
+          return { url: url, name: game };
+        }
+      );
       images = images.concat(cur);
     }
+
     console.info('Galleries:', galleries.length);
     console.info('Images:', images.length);
+
     return images;
   }
 
@@ -146,23 +173,33 @@ var OSGC = window.OSGC = {};
     if (loadTime > 5000) { OSGC.invalidImages.tooSlow.push(image.src); }
   }
 
-  function downloadImage(url) {
+  function downloadImage(dimage) {
     return new Promise(function (resolve, reject) {
       let timeStart = new Date().getTime();
       let image = new Image();
       image.onload = onload;
       image.onerror = onerror;
-      image.src = url;
+      image.src = dimage.url;
 
       function time() { return new Date().getTime() - timeStart; }
       function onload() { resolve({image: image, time: time()}); }
-      function onerror() { reject({url: url, time: time()}); }
+      function onerror() {
+        reject({
+          name: dimage.name,
+          url: dimage.url,
+          time: time()
+        });
+      }
     });
   }
 
   function reflect(promise){
       function resolved(value) { validateImage(value.image, value.time); }
-      function rejected(err) { OSGC.brokenLinks.push(err.url); };
+      function rejected(err) {
+        let bad = OSGC.brokenLinks[err.name];
+        if (!bad) { bad = OSGC.brokenLinks[err.name] = []; }
+        bad.push(err.url);
+      }
 
       return promise.then(resolved, rejected);
   }
@@ -207,4 +244,38 @@ var OSGC = window.OSGC = {};
 
     return Promise.resolve().then(queue).then(showResults);
   }
+
+  // Dark theme
+  function toggleDarkTheme() {
+    if (document.body.classList.contains('darkTheme')) {
+      document.body.classList.remove('darkTheme');
+      localStorage.setItem('startInDarkTheme', 'false')
+    } else {
+      document.body.classList.add('darkTheme');
+      localStorage.setItem('startInDarkTheme', 'true')
+    }
+  }
+
+  document.getElementById('darkThemeButton').addEventListener('click', toggleDarkTheme)
+
+  // Lazy load badges when they become visible (avoid error 429)
+  var lazyloadHandler = function(e) {
+    var elements = document.querySelectorAll("img.lazyload");
+    for (var i = 0; i < elements.length; i++) {
+      var boundingClientRect = elements[i].getBoundingClientRect();
+      if (
+        elements[i].hasAttribute("data-src") &&
+        boundingClientRect.top < window.innerHeight &&
+        // Ensure parent game is not hidden
+        elements[i].offsetParent != null
+      ) {
+        elements[i].setAttribute("src", elements[i].getAttribute("data-src"));
+        elements[i].removeAttribute("data-src");
+      }
+    }
+  };
+
+  window.addEventListener('scroll', lazyloadHandler);
+  window.addEventListener('load', lazyloadHandler);
+  window.addEventListener('resize', lazyloadHandler);
 })();

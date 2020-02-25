@@ -1,46 +1,223 @@
-- name: [Imperialism, Imperialism (video game)]
-  remakes:
-  - name: imperialism-remake
-    repo: https://github.com/Trilarion/Imperialism-Remake
-    url: http://remake.twelvepm.de/
-    updated: 2015-04-05
-    development: active
-    lang: Python
-    license: [GPL3]
-    images:
-    - http://remake.twelvepm.de/wp/wp-content/uploads/2014/04/EditorScreen.0.1.0.jpg
+- name: I Have No Tomatoes
+  images:
+  - http://tomatoes.sourceforge.net/ss1.jpg
+  - http://tomatoes.sourceforge.net/ss2.jpg
+  - http://tomatoes.sourceforge.net/ss3.jpg
+  - http://tomatoes.sourceforge.net/ss4.jpg
+  lang:
+  - C++
+  license:
+  - Zlib
+  development: halted
+  originals:
+  - Bomberman
+  repo: https://sourceforge.net/projects/tomatoes/
+  type: remake
+  updated: 2015-05-02
+  url: http://tomatoes.sourceforge.net
 
-- name: Imperium Galactica
-  remakes:
-  - name: Open Imperium Galactica
-    url: https://github.com/akarnokd/open-ig
-    repo: https://github.com/akarnokd/open-ig
-    status: playable
-    development: sporadic
-    lang: Java
-    updated: 2013-12-11
-    video:
-      youtube: qHBUdUqqI-k
+- name: ICBM3D
+  images:
+  - http://www.newbreedsoftware.com/icbm3d/screenshots/1.gif
+  - http://www.newbreedsoftware.com/icbm3d/screenshots/2.gif
+  - http://www.newbreedsoftware.com/icbm3d/screenshots/3.gif
+  - http://www.newbreedsoftware.com/icbm3d/screenshots/4.gif
+  - http://www.newbreedsoftware.com/icbm3d/screenshots/5.gif
+  - http://www.newbreedsoftware.com/icbm3d/screenshots/6.gif
+  - http://www.newbreedsoftware.com/icbm3d/screenshots/7.gif
+  - http://www.newbreedsoftware.com/icbm3d/screenshots/8.gif
+  - http://www.newbreedsoftware.com/icbm3d/screenshots/icbm3d-agenda.gif
+  lang:
+  - C
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Missile Command
+  repo: ftp://ftp.tuxpaint.org/unix/x/icbm3d/icbm3d.0.4.tar.gz
+  type: clone
+  updated: 2015-04-07
+  url: http://www.newbreedsoftware.com/icbm3d/
 
-- name: Interstate '76
-  remakes:
-  - name: Interstate Outlaws
-    updated: 2015-07-04
-    development: halted
-    lang: Python
-    license: [GPL]
-    url: http://www.interstateoutlaws.com/
-    repo: http://www.interstateoutlaws.com/downloads/Outlaws-0.1.1a-linux.tar.gz
-    images:
-    - http://www.interstateoutlaws.com/media/craterpreview.jpg
+- name: Ice Breaker
+  images:
+  - http://mattdm.org/icebreaker/images/screenshot-level1-linux.png
+  - http://mattdm.org/icebreaker/images/screenshot-level2-billg.png
+  - http://mattdm.org/icebreaker/images/screenshot-level5-jz-like.png
+  - http://mattdm.org/icebreaker/images/screenshot-level6-stars.png
+  originals:
+  - JezzBall
+  license:
+  - GPL2
+  repo: http://mattdm.org/icebreaker/1.2.x/icebreaker-1.2.1.tgz
+  type: remake
+  updated: 2015-05-09
+  url: http://mattdm.org/icebreaker/
+
+- name: Iceball
+  development: active
+  lang:
+  - C
+  - Lua
+  license:
+  - GPL3
+  - CC-BY-SA
+  content: open
+  originals:
+  - Ace of Spades
+  repo: https://github.com/iamgreaser/iceball
+  type: remake
+  updated: 2019-09-13
+
+- name: imperialism-remake
+  images:
+  - http://remake.twelvepm.de/wp/wp-content/uploads/2014/04/EditorScreen.0.1.0.jpg
+  lang:
+  - Python
+  license:
+  - GPL3
+  development: active
+  originals:
+  - Imperialism
+  repo: https://github.com/Trilarion/Imperialism-Remake
+  type: remake
+  updated: 2015-04-05
+  url: http://remake.twelvepm.de/
+
+- name: Inexor
+  framework:
+  - Cube 2 Engine
+  info: In addition to improving Sauerbraten one of the stated goals of the project is to remove/replace all content with
+    unclear or non-free licenses from the game.
+  lang:
+  - C++
+  - JavaScript
+  license:
+  - Zlib
+  development: active
+  originals:
+  - 'Cube 2: Sauerbraten'
+  repo: https://github.com/inexor-game/code
+  status: semi-playable
+  type: remake
+  updated: 2016-12-03
+  url: https://inexor.org/
+
+- name: Interstate Outlaws
+  images:
+  - http://www.interstateoutlaws.com/media/craterpreview.jpg
+  lang:
+  - Python
+  license:
+  - As-is
+  development: halted
+  originals:
+  - Interstate '76
+  repo: http://www.interstateoutlaws.com/downloads/Outlaws-0.1.1a-linux.tar.gz
+  type: remake
+  updated: 2015-07-04
+  url: http://www.interstateoutlaws.com/
+
+- name: IO Reboot
+  development: complete
+  framework:
+  - Unity
+  images:
+  - https://lh3.googleusercontent.com/umCxkpuG_pBRWijjgE9i2Pc314qEdbg1uYgFCkCqtoRaiBGX4pBg9aFR7BFsSHjQ0sRe=h900-rw
+  - https://lh3.googleusercontent.com/wXYHQFw9OKKcZZiDC9KEM-Qt6ZJVp6Vn1EJZlgRCwMmbuSqSQSFTC3YreAaZ2qF_KA=h900-rw
+  - https://lh3.googleusercontent.com/jOWqEEME9LDyabTj2rHnb4iCyF1bElCWukqop98WVxrammgL8MfG1MuevnCmsivtpA=h900-rw
+  lang:
+  - C#
+  license:
+  - MIT
+  content: open
+  originals:
+  - Infinity Loop
+  repo: https://github.com/omarchehab98/ioreboot
+  status: playable
+  type: clone
+  updated: 2019-11-20
+
+- name: ioquake3
+  lang:
+  - C
+  license:
+  - GPL2
+  development: active
+  originals:
+  - Quake 3
+  repo: https://github.com/ioquake/ioq3
+  type: remake
+  url: http://ioquake3.org/
+
+- name: Iris2
+  images:
+  - http://www.iris2.de/images/4/48/20080106175329_188.png
+  license:
+  - GPL3
+  development: halted
+  originals:
+  - Ultima Online
+  repo: https://github.com/kblaschke/Iris2
+  status: playable
+  type: remake
+  url: http://www.iris2.de/
+
+- name: iortcw
+  originals:
+  - Return to Castle Wolfenstein
+  type: remake
+  repo: 'https://github.com/iortcw/iortcw'
+  feed: 'https://github.com/iortcw/iortcw/releases.atom'
+  development: sporadic
+  status: playable
+  multiplayer:
+  - Competitive
+  - Online
+  - LAN
+  - Co-op
+  content: commercial
+  lang:
+  - C
+  framework:
+  - SDL2
+  license:
+  - Custom
+  - GPL3
+  info: Merge of ioquake3 features and fixes into RTCW code bases
+  updated: '2019-11-20'
+  video:
+    youtube: iDwbo-ecJQw
 
 - name: Iron Seed
-  remakes:
-  - name: Iron Seed
-    updated: 2015-04-08
-    url: http://www.ironseed.com/
-    repo: http://www.ironseed.com/ironseed-v1.20.0016-2013-03-17.zip
-    development: halted
-    lang: Pascal
-    license: [GPL3]
+  lang:
+  - Pascal
+  license:
+  - GPL3
+  development: halted
+  originals:
+  - Iron Seed
+  repo: https://web.archive.org/web/20150725164943/http://www.ironseed.com/ironseed-v1.20.0016-2013-03-17.zip
+  type: remake
+  updated: 2019-09-15
 
+- name: irrlamb
+  framework:
+  - Irrlicht
+  images:
+  - http://i.imgur.com/EZhOF2Z.jpg
+  - http://i.imgur.com/MoKnLml.jpg
+  - http://i.imgur.com/B0Yg78D.jpg
+  - http://i.imgur.com/FUiVvbl.jpg
+  - http://i.imgur.com/8ibJCaB.jpg
+  - http://i.imgur.com/cI3CN7W.jpg
+  lang:
+  - C++
+  license:
+  - GPL3
+  development: active
+  originals:
+  - Super Monkey Ball
+  repo: https://github.com/jazztickets/irrlamb
+  type: remake
+  updated: 2015-12-29

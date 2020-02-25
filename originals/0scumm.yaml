@@ -1,0 +1,16 @@
+- name: SCUMM
+  external:
+    wikipedia: SCUMM
+  meta:
+    genre:
+    - Adventure
+    - Compilation
+
+- name: 3D Deathchase
+  external:
+    wikipedia: 3D Deathchase
+  meta:
+    genre:
+    - Racing
+    subgenre:
+    - Vehicular Combat

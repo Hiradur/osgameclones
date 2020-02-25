@@ -1,124 +1,371 @@
-- name: Ugh!
-  remakes:
-  - name: UGH-remake
-    url: https://bitbucket.org/Andy51/ugh-remake
-    updated: 2015-04-13
-    repo: https://bitbucket.org/Andy51/ugh-remake.git
-    development: halted
-    lang: C
+- name: UA_source
+  lang:
+  - C++
+  license:
+  - GPL2
+  framework:
+  - SDL
+  originals:
+  - Urban Assault
+  repo: https://github.com/Marisa-Chan/UA_source
+  type: remake
+  updated: 2017-09-08
 
-- name: Ultima Online
-  remakes:
-  - name: Iris2
-    url: http://www.iris2.de/
-    status: playable
-    development: halted
-    repo: http://iris.schattenkind.net/svn/trunk/
-    images:
-    - http://www.iris2.de/images/4/48/20080106175329_188.png
+- name: UAlbion
+  type: remake
+  originals:
+  - Albion
+  repo: https://github.com/csinkers/ualbion
+  development: active
+  status: unplayable
+  lang:
+  - 'C#'
+  - 'F#'
+  license:
+  - MIT
+  content: commercial
+  images:
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/data/Screenshots/1_FirstLevel.png
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/data/Screenshots/2_3DWorld.png
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/data/Screenshots/3_Outdoors.png
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/data/Screenshots/4_Inventory.png
+  - https://raw.githubusercontent.com/csinkers/ualbion/master/data/Screenshots/5_MainMenu.png
+  updated: 2020-02-06
 
-- name: 'Ultima II: The Revenge of the Enchantress'
-  remakes:
-  - name: UiirJS
-    repo: https://github.com/ObviouslySorna/UiirJS
-    updated: 2015-06-01
-    development: halted
-    lang: JavaScript
+- name: Uebergame
+  development: active
+  framework:
+  - Torque 3D
+  images:
+  - http://duion.com/files/blog/Uebergame-1.0.6.0-Release.jpg
+  lang:
+  - TorqueScript
+  - C
+  license:
+  - MIT
+  - CC0
+  content: open
+  originals:
+  - 'ARMA: Armed Assault'
+  - ARMA 2
+  - ARMA 3
+  repo: https://github.com/Duion/Uebergame
+  status: playable
+  type: clone
+  updated: 2016-12-08
+  url: http://duion.com/games/uebergame/main
+  video:
+    youtube: s_xM-0zVM3M
 
-- name: Ultima IV
-  remakes:
-  - url: http://xu4.sourceforge.net/
-    name: xu4
-    repo: http://sourceforge.net/projects/xu4/develop
-    development: active
-    lang: C++
-    images:
-    - http://xu4.sourceforge.net/images/intro1.png
-    - http://xu4.sourceforge.net/images/forest.png
-    - http://xu4.sourceforge.net/images/codex.png
+- name: UFO2000
+  images:
+  - http://a.fsdn.com/con/app/proj/ufo2000/screenshots/66443.jpg
+  - http://a.fsdn.com/con/app/proj/ufo2000/screenshots/66447.jpg
+  - http://a.fsdn.com/con/app/proj/ufo2000/screenshots/66445.jpg
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - 'X-COM: UFO Defense'
+  - 'X-COM: Terror from the Deep'
+  - 'X-COM: Apocalypse'
+  - 'UFO: Enemy Unknown'
+  repo: https://sourceforge.net/projects/ufo2000/
+  status: playable
+  type: remake
+  updated: 2013-07-05
+  url: http://ufo2000.sourceforge.net/
 
-- name: Ultima VI
-  names:
-  - The Savage Empire
-  - Martian Dreams
-  remakes:
-  - url: http://nuvie.sourceforge.net/
-    name: Nuvie
-    repo: http://sourceforge.net/projects/nuvie/develop
-    development: active
-    lang: C++
-    images:
-    - http://nuvie.sourceforge.net/images/shots/nuvie_24.png
-    - http://nuvie.sourceforge.net/images/shots/nuvie_22.png
-    - http://nuvie.sourceforge.net/images/shots/nuvie_21.png
+- name: 'UFO: Alien Invasion'
+  images:
+  - http://ufoai.ninex.info/wiki/images/Nation_Overlay.jpg
+  - http://ufoai.ninex.info/wiki/images/Ufo01.png
+  - http://ufoai.ninex.info/wiki/images/Ufoai2.2_aircraft_team.jpg
+  - http://ufoai.ninex.info/wiki/images/Ufoaiold_base01.jpg
+  lang:
+  - C
+  license:
+  - GPL2
+  development: active
+  originals:
+  - 'X-COM: UFO Defense'
+  - 'X-COM: Terror from the Deep'
+  - 'X-COM: Apocalypse'
+  - 'UFO: Enemy Unknown'
+  repo: https://sourceforge.net/projects/ufoai/
+  type: clone
+  url: https://ufoai.org/wiki/News
+  updated: 2019-08-27
 
-- name: Ultima VII
-  remakes:
-  - url: http://exult.sourceforge.net/
-    name: Exult
-    repo: http://sourceforge.net/projects/exult/develop
-    development: sporadic
-    lang: C++
-    images:
-    - http://exult.sourceforge.net/images/screenshots/stage.png
-    - http://exult.sourceforge.net/images/screenshots/bgpaper.png
-    - http://exult.sourceforge.net/images/screenshots/blackgate.png
-    - http://exult.sourceforge.net/images/screenshots/teleportmap.png
+- name: UGH-remake
+  lang:
+  - C
+  license:
+  - As-is
+  development: halted
+  originals:
+  - Ugh!
+  repo: https://bitbucket.org/Andy51/ugh-remake
+  type: remake
+  updated: 2015-04-13
 
-- name: Ultima VIII
-  remakes:
-  - url: http://pentagram.sourceforge.net/
-    name: Pentagram
-    repo: http://sourceforge.net/projects/pentagram/develop
-    development: sporadic
-    lang: C++
-    images:
-    - http://pentagram.sourceforge.net/images/screenshots/pagan.png
-    - http://pentagram.sourceforge.net/images/screenshots/noremorse.png
-    - http://pentagram.sourceforge.net/images/screenshots/noregret.png
-    - http://pentagram.sourceforge.net/images/screenshots/japanese.png
+- name: UiirJS
+  lang:
+  - JavaScript
+  license:
+  - As-is
+  development: halted
+  originals:
+  - 'Ultima II: The Revenge of the Enchantress'
+  repo: https://github.com/ObviouslySorna/UiirJS
+  type: remake
+  updated: 2015-06-01
 
-- name: Uncharted Waters
-  remakes:
-  - name: Uncharted waters 2 remake
-    repo: https://github.com/Jackyjjc/Uncharted-waters-2-remake
-    url: http://jackyjjc.com/
-    updated: 2015-04-05
-    development: active
-    lang: Java
-    license: [GPL2]
+- name: Ultimate Stunts
+  images:
+  - http://www.ultimatestunts.nl/screenshots/0721.jpg
+  - http://www.ultimatestunts.nl/screenshots/0711.jpg
+  - http://www.ultimatestunts.nl/screenshots/0722.jpg
+  - http://www.ultimatestunts.nl/screenshots/0742.jpg
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Stunts
+  repo: https://sourceforge.net/projects/ultimatestunts/
+  type: remake
+  url: http://www.ultimatestunts.nl/
+  updated: 2018-10-06
 
-- name: [Uninvited, Uninvited (video game)]
-  remakes:
-  - name: uninvited
-    updated: 2015-04-04
-    repo: https://github.com/DavidGriffith/uninvited
-    development: sporadic
-    framework: Inform
-    license: [Artistic]
+- name: UltraStar Deluxe
+  framework:
+  - SDL2
+  images:
+  - http://ultrastardx.sourceforge.net/screenshots/sing_singscreen.jpg
+  - http://ultrastardx.sourceforge.net/screenshots/game_visualisations.png
+  - http://ultrastardx.sourceforge.net/screenshots/partymode_teams.png
+  lang:
+  - Object Pascal
+  - Lua
+  license:
+  - GPL2
+  development: active
+  originals:
+  - SingStar
+  repo: https://github.com/UltraStar-Deluxe/USDX
+  status: playable
+  type: remake
+  updated: 2019-11-20
+  url: https://usdx.eu/
 
-- name: [Utopia, Utopia (video game)]
-  remakes:
-  - name: Utopia
-    updated: 2015-04-05
-    url: http://apps.gamejs.org/newutopia/
-    repo: https://github.com/gamejs/newutopia
-    development: halted
-    lang: JavaScript
+- name: uMario
+  framework:
+  - SDL2
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Super Mario
+  repo: https://github.com/jakowskidev/uMario_Jakowski
+  status: playable
+  type: remake
+  updated: 2016-03-24
 
-- name: UGH!
-  clones:
-  - name: CaveExpress
-    url: http://www.caveproductions.org/
-    status: playable
-    development: active
-    lang: C
-    framework: SDL
-    license: [GPL3]
-    repo: https://github.com/mgerhardy/caveexpress
-    updated: 2014-06-24
-    images:
-    - http://www.caveproductions.org/images/screenshots/mainmenu.jpg
-    - http://www.caveproductions.org/images/screenshots/angry-dino.jpg
-    - http://www.caveproductions.org/images/screenshots/multi-packages.jpg
+- name: Uncharted waters 2 remake
+  lang:
+  - Java
+  license:
+  - GPL2
+  development: active
+  originals:
+  - Uncharted Waters
+  repo: https://github.com/JohanLi/uncharted-waters-2
+  type: remake
+  updated: 2019-10-02
+  url: http://jackyjjc.com/
+  images:
+  - https://media.githubusercontent.com/media/JohanLi/uncharted-waters-2/readme-assets/uncharted-waters-2.png
 
+- name: UnCiv
+  type: remake
+  originals:
+  - Civilization V
+  repo: https://github.com/yairm210/UnCiv
+  url: https://play.google.com/store/apps/details?id=com.unciv.app
+  development: active
+  status: playable
+  multiplayer:
+  - Hotseat
+  - Online
+  lang:
+  - Kotlin
+  framework:
+  - LibGDX
+  license:
+  - MPL
+  content: open
+  info: Android remake of Civilization V
+  updated: 2019-09-17
+  images:
+  - https://camo.githubusercontent.com/3318b4e2c2d7726d8e6d9b2ae8fec506e9d944df/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f554b524a6f67395a493677393368594c665f5658494b5035675255396a50384957334b6139466862466173644d6a694654412d6b746d477a434d442d48464d735a773d77313932302d683836372d7277
+  - https://lh3.googleusercontent.com/u-160JEHFQMPW7fxWGUcHefQtgBNrTeqWN5Rh3jPwgbAF77GdgSTaxwuWoc6n7h1mg=w1180-h932
+  - https://lh3.googleusercontent.com/_MVwu5gZX0n5KckRhjYUzvD6PLlDGhWk4peclcg2L-VjwNo2-9v9R03I-6mdvlmJ7ZM=w1180-h932
+  - https://lh3.googleusercontent.com/Az9kjLDnmMA__c0_68P_FwjivBtAg8ZMtFYBvXvEAhoS8W-8_hqSxINzbALf9rWsqKM=w1180-h932
+  - https://lh3.googleusercontent.com/ioi91BqZm856VpXVPuzD3Of5P5hjXLcKHq20Ofv3aklexSwWSl5lpmo5EiJftmt1Wg=w1180-h932
+  - https://lh3.googleusercontent.com/qOqSXlgjCCdpYCHoNab0rzGHfjUnnCHF_GJQKGKmaOfBv1tGYW6v37cvjIMfbwoibQ=w1180-h932
+  - https://lh3.googleusercontent.com/TSFQq6P2X9Ineomy-59C-DkiqD8elT9DVWBS1jhQGQ-3pdSq38tRwhzbL3nt4NrE8Ws=w1180-h932
+
+- name: UndertaleModTool
+  originals:
+  - Undertale
+  type: tool
+  repo: 'https://github.com/krzys-h/UndertaleModTool'
+  feed: 'https://github.com/krzys-h/UndertaleModTool/releases.atom'
+  development: sporadic
+  content: commercial
+  lang:
+  - 'C#'
+  license:
+  - GPL3
+  info: >-
+    The most complete tool for modding, decompiling and unpacking Undertale (and
+    other Game Maker: Studio games!)
+  updated: '2019-12-13'
+  images:
+  - 'https://github.com/krzys-h/UndertaleModTool/raw/master/screenshot.png'
+
+- name: uninvited
+  framework:
+  - Inform
+  license:
+  - Artistic
+  development: sporadic
+  originals:
+  - Uninvited
+  repo: https://github.com/DavidGriffith/uninvited
+  type: remake
+  updated: 2015-04-04
+
+- name: unitystation
+  originals:
+  - Space Station 13
+  type: clone
+  repo: https://github.com/unitystation/unitystation
+  url: https://unitystation.org/
+  development: very active
+  lang:
+  - C#
+  framework:
+  - Unity
+  license:
+  - AGPL3
+  - CC-BY-SA
+  - GPL3
+  updated: 2019-11-14
+  images:
+  - https://steamcdn-a.akamaihd.net/steam/apps/801140/ss_805616ebcb4f10e470badb1c0f934d2cc400a39c.600x338.jpg
+  - https://steamcdn-a.akamaihd.net/steam/apps/801140/ss_cac4f92cf0aeb1bc1a6f39c17abdd6cae0dba294.600x338.jpg
+  - https://steamcdn-a.akamaihd.net/steam/apps/801140/ss_dcdf23199fcf2a1e0f9307b62a7b5d5aab51f470.600x338.jpg
+  video:
+    youtube: FNay4jJMuxA
+
+- name: Unknown Horizons
+  images:
+  - http://www.unknown-horizons.org/uploads/images/uh-release-2011.2/2011.2-7.png
+  - http://www.unknown-horizons.org/uploads/images/uh-release-2011.2/2011.2-6.png
+  lang:
+  - Python
+  license:
+  - GPL2
+  - Multiple
+  development: active
+  originals:
+  - Anno series
+  repo: https://github.com/unknown-horizons/unknown-horizons
+  type: clone
+  url: http://www.unknown-horizons.org/
+  updated: 2018-10-06
+
+- name: Unknown Horizons Godot Engine Port
+  originals:
+  - Anno series
+  type: clone
+  repo: 'https://github.com/unknown-horizons/godot-port'
+  url: 'http://unknown-horizons.org/'
+  development: sporadic
+  status: unplayable
+  content: open
+  lang:
+  - GDScript
+  framework:
+  - Godot
+  license:
+  - GPL2
+  info: We are searching for developers for our Godot Engine port.
+  updated: '2019-12-24'
+
+- name: Unvanquished
+  lang:
+  - C
+  license:
+  - GPL3
+  - CC-BY-SA
+  development: active
+  originals:
+  - Natural Selection
+  repo: https://github.com/Unvanquished/Unvanquished
+  type: clone
+  updated: 2019-08-27
+  url: http://www.unvanquished.net/
+
+- name: The Ur-Quan Masters
+  images:
+  - http://sc2.sourceforge.net/screenshots/pcintro.jpg
+  - http://sc2.sourceforge.net/screenshots/slaveshield.png
+  - http://sc2.sourceforge.net/screenshots/scale_triscan.png
+  - http://sc2.sourceforge.net/screenshots/setupmenu.png
+  - http://sc2.sourceforge.net/screenshots/meleestep.png
+  lang:
+  - C
+  license:
+  - GPL2
+  development: active
+  originals:
+  - Star Control 2
+  repo: https://sourceforge.net/projects/sc2/
+  type: remake
+  url: http://sc2.sourceforge.net/
+  updated: 2018-10-06
+
+- name: urde
+  info: engine only
+  lang:
+  - C++
+  - Python
+  license:
+  - MIT
+  development: active
+  originals:
+  - Metroid Prime
+  repo: https://github.com/AxioDL/urde
+  type: remake
+  updated: 2016-03-08
+
+- name: Utopia
+  lang:
+  - JavaScript
+  license:
+  - As-is
+  development: halted
+  originals:
+  - Utopia
+  repo: https://github.com/gamejs/newutopia
+  type: remake
+  updated: 2015-04-05
+  url: http://apps.gamejs.org/newutopia/

@@ -1,0 +1,335 @@
+- name: Babaliba
+  external:
+    wikipedia: Dinamic Software
+  meta:
+    genre:
+    - Arcade
+
+- name: Baba Is You
+  external:
+    wikipedia: Baba_Is_You
+  meta:
+    genre:
+    - Puzzle
+
+- name: Baldur's Gate
+  names:
+  - 'Baldur''s Gate: Tales of the Sword Coast'
+  - 'Baldur''s Gate II: Shadows of Amn'
+  - 'Baldur''s Gate II: Throne of Bhaal'
+  external:
+    wikipedia: Baldur's Gate
+  meta:
+    genre:
+    - RPG
+    theme:
+    - Fantasy
+    - Medieval
+
+- name: Ballerburg
+  external:
+    wikipedia: Ballerburg
+  meta:
+    genre:
+    - Artillery
+
+- name: Balloon Fight
+  external:
+    wikipedia: Balloon Fight
+  meta:
+    genre:
+    - Arcade
+
+- name: 'Barbarian: The Ultimate Warrior'
+  external:
+    wikipedia: 'Barbarian: The Ultimate Warrior'
+  meta:
+    genre:
+    - Fighting
+    - Platform
+    theme:
+    - Fantasy
+
+- name: Bard's Tale Contruction Set
+  external:
+    wikipedia: Bard's Tale Contruction Set
+  meta:
+    genre:
+    - RPG
+
+- name: Barony
+  external:
+    website: http://www.baronygame.com/
+  platform:
+  - Windows
+  - OSX
+  - Linux
+  meta:
+    genre:
+    - RPG
+    subgenre:
+    - Action RPG
+    theme:
+    - Fantasy
+
+- name: Battle Chess
+  external:
+    wikipedia: Battle Chess
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Battle City
+  external:
+    wikipedia: Battle City (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Battle Isle series
+  external:
+    wikipedia: Battle Isle (series)
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Battle Zone
+  external:
+    wikipedia: Battlezone_(1980_video_game)
+  meta:
+    genre:
+    - FPS
+    - Arcade
+
+- name: Battlecity
+  external:
+    website: https://github.com/Deceth/Battle-City/wiki/Battle-City-History
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: BeamNG.drive
+  external:
+    wikipedia: BeamNG.drive
+  meta:
+    genre:
+    - Simulation
+    subgenre: []
+    theme: []
+    
+- name: Beatmania IIDX
+  names:
+  - 'ビートマニア ツーディーエックス'
+  - 'Bītomania Tsū Di Ekkusu'
+  external:
+    wikipedia: Beatmania IIDX
+  platform:
+  - Arcade
+  meta:
+    genre:
+    - Rhythm
+
+- name: Bejeweled
+  external:
+    wikipedia: Bejeweled
+  platform:
+  - Web
+  - Windows
+  meta:
+    genre:
+    - Puzzle
+
+- name: Bermuda Syndrome
+  external:
+    wikipedia: Bermuda Syndrome
+  meta:
+    genre:
+    - Adventure
+    - Platform
+
+- name: Betrayal at Krondor
+  external:
+    wikipedia: Betrayal at Krondor
+  meta:
+    genre:
+    - RPG
+
+- name: Blade Runner
+  external:
+    wikipedia: Blade Runner (1997 video game)
+  meta:
+    genre:
+    - Adventure
+
+- name: Black & White
+  external:
+    wikipedia: Black & White (video game)
+  platform:
+  - Windows
+  - OSX
+  meta:
+    genre:
+    - Simulation
+    - Strategy
+    theme:
+    - Fantasy
+
+- name: 'Blake Stone: Planet Strike'
+  external:
+    wikipedia: 'Blake Stone: Planet Strike'
+  meta:
+    genre:
+    - FPS
+
+- name: Blood
+  external:
+    wikipedia: Blood (video game)
+  meta:
+    genre:
+    - FPS
+
+- name: Bloons Tower Defense
+  external:
+    wikipedia: Bloons Tower Defense
+  meta:
+    genre:
+    - Real-Time Strategy
+    subgenre:
+    - Tower Defense
+
+- name: Board Game
+  external:
+    wikipedia: Board Game
+  meta:
+    genre:
+    - Compilation
+    subgenre:
+    - Board Game
+
+- name: Bolo
+  external:
+    wikipedia: Bolo (1987 video game)
+  meta:
+    genre:
+    - Shmup
+
+- name: Bomberman
+  external:
+    wikipedia: Bomberman
+  meta:
+    genre:
+    - Arcade
+  names:
+  - Dynablaster
+
+- name: BOOM
+  external:
+    website: https://www.macintoshrepository.org/3582-boom
+  meta:
+    genre:
+    - Arcade
+
+- name: Boulder Dash
+  external:
+    wikipedia: Boulder Dash
+  meta:
+    genre:
+    - Arcade
+
+- name: Brain Blasters
+  external:
+    website: http://www.mobygames.com/game/brain-blasters
+  meta:
+    genre:
+    - Puzzle
+
+- name: Bratwurst
+  external:
+    website: http://www.mobygames.com/game/bratwurst
+  meta:
+    genre:
+    - Arcade
+
+- name: Breakout
+  external:
+    wikipedia: Breakout (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: BrickShooter
+  external:
+    website: http://www.brickshooter.com/
+  platform:
+  - Windows
+  meta:
+    genre:
+    - Puzzle
+
+- name: Bruce Lee
+  external:
+    wikipedia: Bruce Lee (video game)
+  meta:
+    genre:
+    - Action
+
+- name: Bubble Bobble
+  external:
+    wikipedia: Bubble Bobble
+  meta:
+    genre:
+    - Arcade
+
+- name: Bug Bomber
+  external:
+    website: http://www.mobygames.com/game/bug-bomber
+  meta:
+    genre:
+    - Arcade
+
+- name: BurgerTime
+  external:
+    wikipedia: BurgerTime
+  meta:
+    genre:
+    - Platform
+  names:
+  - "\u30D0\u30FC\u30AC\u30FC\u30BF\u30A4\u30E0"
+  - Hamburger
+  - "\u30CF\u30F3\u30D0\u30FC\u30AC\u30FC"
+
+- name: Buster Bros
+  external:
+    wikipedia: Buster Bros
+  meta:
+    genre:
+    - Arcade
+  names:
+  - Pang
+  - "\u30D1\u30F3"
+  - Pomping World
+  - "\u30DD\u30F3\u30D4\u30F3\u30B0\u30FB\u30EF\u30FC\u30EB\u30C9"
+
+- name: Buzz Aldrin's Race Into Space
+  external:
+    wikipedia: Buzz Aldrin's Race Into Space
+  meta:
+    genre:
+    - Strategy
+    - Simulation
+    - Turn-Based Strategy
+    theme:
+    - Management
+
+- name: BVE Trainsim
+  names:
+  - Boso View Express
+  external:
+    wikipedia: BVE Trainsim
+  platform:
+  - Windows
+  meta:
+    genre:
+    - Simulation
+    subgenre:
+    - Train Simulator

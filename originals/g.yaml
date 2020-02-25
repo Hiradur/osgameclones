@@ -1,0 +1,155 @@
+- name: Galaxian
+  external:
+    wikipedia: Galaxian
+  meta:
+    genre:
+    - Arcade
+
+- name: Geometry Wars
+  external:
+    wikipedia: Geometry Wars
+  meta:
+    genre:
+    - Shmup
+
+- name: Gish
+  external:
+    wikipedia: Gish (video game)
+  meta:
+    genre:
+    - Platform
+    theme:
+    - Comedy
+
+- name: Gladiator
+  external:
+    wikipedia: Gladiator
+  meta:
+    genre:
+    - Action
+    - RPG
+
+- name: Glest
+  external:
+    wikipedia: Glest
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - Medieval
+    - Fantasy
+
+- name: Gods
+  external:
+    wikipedia: Gods (video game)
+  meta:
+    genre:
+    - Platform
+
+- name: GoldenEye 007
+  external:
+    wikipedia: GoldenEye 007 (1997 video game)
+  meta:
+    genre:
+    - FPS
+
+- name: Gorillas
+  names:
+    - Gorilla.Bas
+  external:
+    wikipedia: Gorillas (video game)
+  meta:
+    genre:
+    - Arcade
+    - Artillery
+
+- name: Gothic
+  names:
+  - Gothic II
+  external:
+    wikipedia: Gothic (video game)
+  meta:
+    genre:
+    - RPG
+    - Action
+
+- name: Grand Theft Auto
+  external:
+    wikipedia: Grand Theft Auto (video game)
+  meta:
+    genre:
+    - Action
+    - Adventure
+    theme:
+    - Crime
+
+- name: Grand Theft Auto 2
+  external:
+    wikipedia: Grand Theft Auto 2
+  meta:
+    genre:
+    - Action
+    - Adventure
+    theme:
+    - Crime
+
+- name: Grand Theft Auto III
+  external:
+    wikipedia: Grand Theft Auto III
+  meta:
+    genre:
+    - Action
+    - Adventure
+    theme:
+    - Crime
+
+- name: "Grand Theft Auto: San Andreas"
+  external:
+    wikipedia: "Grand Theft Auto: San Andreas"
+  meta:
+    genre:
+    - Action
+    - Adventure
+    theme:
+    - Crime
+
+- name: Gravity Force
+  external:
+    wikipedia: Gravity Force
+  meta:
+    genre:
+    - Arcade
+
+- name: Grim Fandango
+  external:
+    wikipedia: Grim Fandango
+  meta:
+    genre:
+    - Adventure
+
+- name: Gruntz
+  external:
+    wikipedia: Gruntz
+  platform:
+  - Windows
+  meta:
+    genre:
+    - Strategy
+    - Puzzle
+
+- name: Guitar Hero
+  external:
+    wikipedia: Guitar Hero
+  meta:
+    genre:
+    - Rhythm
+
+- name: Gunpoint
+  external:
+    wikipedia: Gunpoint (video game)
+  meta:
+   genre:
+   - Platform
+   - Puzzle
+   theme:
+   - Sci-Fi

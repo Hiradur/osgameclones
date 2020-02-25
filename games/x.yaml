@@ -1,150 +1,339 @@
-- name: [X-COM Series, X-COM]
-  names:
+- name: 'X-Force: Fight For Destiny'
+  framework:
+  - Kylix
+  images:
+  - https://a.fsdn.com/con/app/proj/xforceffd/screenshots/33763.jpg
+  lang:
+  - Delphi
+  license:
+  - GPL2
+  development: sporadic
+  originals:
   - 'X-COM: UFO Defense'
   - 'X-COM: Terror from the Deep'
   - 'X-COM: Apocalypse'
   - 'UFO: Enemy Unknown'
-  meta:
-    genre: [Strategy]
-    theme: [Horror, Sci-Fi]
-  remakes:
-  - name: OpenXcom
-    url: http://openxcom.org/
-    info: EU fully playable, TftD in development
-    status: playable
-    development: active
-    license: [GPL3]
-    lang: C++
-    repo: https://github.com/SupSuper/OpenXcom
-    images:
-    - http://openxcom.org/wp-content/gallery/v1-0/00_mainmenu.png
-    - http://openxcom.org/wp-content/gallery/v1-0/01_globe.png
-    - http://openxcom.org/wp-content/gallery/v1-0/04_inventory.png
-    - http://openxcom.org/wp-content/gallery/v1-0/07_pathpreview.png
-  - name: UFO2000
-    url: http://ufo2000.sourceforge.net/
-    status: playable
-    development: halted
-    lang: C++
-    repo: http://sourceforge.net/p/ufo2000/code/1176/tree/
-    updated: 2013-07-05
-    images:
-    - http://a.fsdn.com/con/app/proj/ufo2000/screenshots/66443.jpg
-    - http://a.fsdn.com/con/app/proj/ufo2000/screenshots/66447.jpg
-    - http://a.fsdn.com/con/app/proj/ufo2000/screenshots/66445.jpg
-  - name: OpenApoc
-    updated: 2015-04-04
-    development: active
-    lang: C++
-    license: [MIT]
-    repo: https://github.com/pmprog/OpenApoc
-    url: http://openapoc.pmprog.co.uk/
-  clones:
-  - url: http://ufoai.ninex.info/
-    name: 'UFO: Alien Invasion'
-    development: active
-    lang: C
-    repo: http://ufoai.git.sourceforge.net/git/gitweb.cgi?p=ufoai/ufoai;a=summary
-    images:
-    - http://ufoai.ninex.info/wiki/images/Nation_Overlay.jpg
-    - http://ufoai.ninex.info/wiki/images/Ufo01.png
-    - http://ufoai.ninex.info/wiki/images/Ufoai2.2_aircraft_team.jpg
-    - http://ufoai.ninex.info/wiki/images/Ufoaiold_base01.jpg
-  - name: Xenowar
-    url: http://xenowar.net/
-    status: playable
-    development: halted
-    lang: C++
-    repo: https://github.com/leethomason/unflobtactical
-    updated: 2014-11-26
-    images:
-    - http://xenowar.net/images/cap00.png
-    - http://xenowar.net/images/cap01.png
-    - http://xenowar.net/images/cap02.png
-    - http://xenowar.net/images/cap03.png
-    - http://xenowar.net/images/cap04.png
-    - http://xenowar.net/images/cap05.png
-  - name: 'Project: Xenocide'
-    updated: 2015-04-11
-    repo: http://xenocide.cvs.sourceforge.net/viewvc/xenocide/
-    url: https://sourceforge.net/projects/xenocide/
-    development: halted
-    lang: C++
-    license: [GPL2]
-  - name: 'X-Force: Fight For Destiny'
-    updated: 2015-04-11
-    url: http://www.xforce-online.de/
-    repo: svn://svn.code.sf.net/p/xforceffd/code/trunk
-    development: sporadic
-    lang: Delphi
-    framework: Kylix
-    license: [GPL2]
-    images:
-    - https://a.fsdn.com/con/app/proj/xforceffd/screenshots/33763.jpg
-    - https://a.fsdn.com/con/app/proj/xforceffd/screenshots/33763.jpg
+  repo: svn://svn.code.sf.net/p/xforceffd/code/trunk
+  type: clone
+  updated: 2015-04-11
+  url: http://www.xforce-online.de/
 
-- name: [X-It, 'http://www.mobygames.com/game/x-it']
-  remakes:
-  - name: xit
-    updated: 2015-05-18
-    repo: https://github.com/qfel13/xit
-    development: halted
-    lang: JavaScript
+- name: X-Moto
+  images:
+  - http://wiki.xmoto.tuxfamily.org/images/d/d8/Screenshot0018.png
+  - http://wiki.xmoto.tuxfamily.org/images/0/04/Screenshot0005.png
+  - http://wiki.xmoto.tuxfamily.org/images/7/7f/Screenshot0036.png
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: active
+  originals:
+  - Elasto Mania
+  repo: https://svn.tuxfamily.org/viewvc.cgi/xmoto_xmoto/
+  status: playable
+  type: remake
+  updated: 2014-06-16
+  url: http://xmoto.tuxfamily.org/
 
-- name: Xenon 2 Megablast
-  remakes:
-  - name: Phavon
-    updated: 2015-04-15
-    url: http://phavon.sourceforge.net/
-    repo: http://phavon.cvs.sourceforge.net/viewvc/phavon/
-    development: halted
-    lang: C
-    license: [GPL2]
-    images:
-    - http://phavon.sourceforge.net/snap001.jpg
+- name: XArchon
+  images:
+  - http://xarchon.seul.org/img/snap-1.gif
+  - http://xarchon.seul.org/img/snap-2.gif
+  lang:
+  - C
+  - C++
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - 'Archon: The Light and the Dark'
+  repo: http://xarchon.seul.org/xarchon-0.50.tar.gz
+  type: remake
+  updated: 2019-08-27
+  url: http://xarchon.seul.org/
 
-- name: XPilot
-  remakes:
-  - name: XPilot NG
-    url: http://xpilot.sourceforge.net/
-    repo: http://xpilot.cvs.sourceforge.net/viewvc/xpilot/
-    updated: 2015-04-06
-    development: halted
-    lang: C
-    license: [GPL2]
-    images:
-    - http://xpilot.sourceforge.net/shots/polybloods1.png
-    - http://xpilot.sourceforge.net/shots/xpilot_sdl.png
-    - http://xpilot.sourceforge.net/shots/fishtank.png
-    - http://xpilot.sourceforge.net/shots/dragon.png
-    - http://xpilot.sourceforge.net/shots/spaceball.png
+- name: xBaK
+  framework:
+  - SDL
+  images:
+  - http://a.fsdn.com/con/app/proj/xbak/screenshots/126405.jpg
+  - http://a.fsdn.com/con/app/proj/xbak/screenshots/62665.jpg
+  - http://a.fsdn.com/con/app/proj/xbak/screenshots/71372.jpg
+  lang:
+  - C++
+  license:
+  - GPL3
+  development: halted
+  originals:
+  - Betrayal at Krondor
+  repo: https://sourceforge.net/projects/xbak/files/xbak/
+  status: playable
+  type: remake
+  updated: 2014-08-15
+  url: http://xbak.sourceforge.net/
 
-- name: [XQuest, 'http://www.swallowtail.org/xquest/']
-  remakes:
-  - name: XQuest 2
-    updated: 2015-07-11
-    url: http://www.swallowtail.org/xquest/
-    repo: http://www.swallowtail.org/xquest/xquest_1.3_src.tar.gz
-    lang: Pascal
-    license: [Custom]
-    images:
-    - http://www.swallowtail.org/xquest/xquest1.gif
-    - http://www.swallowtail.org/xquest/xquest2.gif
-    - http://www.swallowtail.org/xquest/xquest3.gif
+- name: xDuke
+  type: remake
+  originals:
+  - Duke Nukem 3D
+  repo: http://vision.gel.ulaval.ca/~klein/duke3d/xDuke_19.7.1_Source_Code.rar
+  url: http://vision.gel.ulaval.ca/~klein/duke3d/
+  development: halted
+  status: playable
+  multiplayer:
+  - LAN
+  - Online
+  lang:
+  - C
+  license:
+  - Custom
+  content: commercial
+  updated: 2020-01-07
+  images:
+  - http://vision.gel.ulaval.ca/~klein/duke3d/index_fichiers/image001.jpg
 
-- name: [XOR, XOR (video game)]
-  clones:
-  - url: http://jwm-art.net/?p=XorCurses
-    name: XorCurses
-    repo: https://github.com/jwm-art-net/XorCurses
-    development: complete
-    updated: 2013-06-06
-    images:
-    - http://jwm-art.net/art/image/xorcurses-0.0.8-lvl9-newschool-xfceterm.png
-    - http://jwm-art.net/art/image/xorcurses-0.0.8-menu-xterm.png
-  - name: XorGramana
-    url: http://jwm-art.net/XorGramana/
-    repo: http://www.jwm-art.net/XorGramana/XorGramana-0.0.8.tar.bz2
-    development: complete
-    updated: 2013-06-06
+- name: Xenowar
+  images:
+  - http://xenowar.net/images/cap00.png
+  - http://xenowar.net/images/cap01.png
+  - http://xenowar.net/images/cap02.png
+  - http://xenowar.net/images/cap03.png
+  - http://xenowar.net/images/cap04.png
+  - http://xenowar.net/images/cap05.png
+  lang:
+  - C++
+  license:
+  - GPL3
+  development: halted
+  originals:
+  - 'X-COM: UFO Defense'
+  - 'X-COM: Terror from the Deep'
+  - 'X-COM: Apocalypse'
+  - 'UFO: Enemy Unknown'
+  repo: https://github.com/leethomason/unflobtactical
+  status: playable
+  type: clone
+  updated: 2014-11-26
+  url: http://xenowar.net/
 
+- name: xit
+  lang:
+  - JavaScript
+  license:
+  - As-is
+  development: halted
+  originals:
+  - X-It
+  repo: https://github.com/qfel13/xit
+  type: remake
+  updated: 2015-05-18
+
+- name: XL Engine
+  images:
+  - http://xlengine.com/wp-content/uploads/2016/02/XLEngine_UI_3_sm.png
+  - http://xlengine.com/wp-content/uploads/2016/02/DaggerfallSoft1_sm.png
+  - http://xlengine.com/wp-content/uploads/2016/02/DaggerfallSoft2_sm.png
+  - https://darkxl.files.wordpress.com/2010/12/dxl_b9_4d11d6f6.png
+  - https://darkxl.files.wordpress.com/2010/12/dxl_bloodps_11.png
+  - http://xlengine.com/wp-content/uploads/2011/09/OutlawsSprites2.png
+  - https://darkxl.files.wordpress.com/2009/08/dxl_harkov1.jpg
+  - https://darkxl.files.wordpress.com/2009/09/dxl_tarsalus9.jpg
+  lang:
+  - C++
+  license:
+  - As-is
+  development: sporadic
+  originals:
+  - Dark Forces
+  - Blood
+  - Outlaws
+  - Shadow Warrior
+  - 'The Elder Scrolls II: Daggerfall'
+  repo: https://github.com/Mindwerks/XLEngine
+  type: remake
+  updated: 2019-01-23
+  url: http://xlengine.com
+
+- name: XMage
+  lang:
+  - Java
+  license:
+  - MIT
+  development: very active
+  originals:
+  - 'Magic: The Gathering Online'
+  repo: https://github.com/magefree/mage
+  status: playable
+  type: clone
+  url: http://xmage.de/
+  updated: 2018-10-06
+
+- name: Xonotic
+  images:
+  - http://www.xonotic.org/m/uploads/2012/07/frontpage_005.jpg
+  - http://www.xonotic.org/m/uploads/2012/07/frontpage_008.jpg
+  - http://www.xonotic.org/m/uploads/2012/07/frontpage_013.jpg
+  lang:
+  - C
+  license:
+  - GPL2
+  development: active
+  originals:
+  - Nexuiz
+  repo: http://git.xonotic.org/?p=xonotic/xonotic.git;a=summary;js=1
+  status: playable
+  type: clone
+  updated: 2013-09-20
+  url: http://www.xonotic.org/
+  video:
+    youtube: Io920ID423A
+
+- name: XorCurses
+  images:
+  - http://jwm-art.net/art/image/xorcurses-0.0.8-lvl9-newschool-xfceterm.png
+  - http://jwm-art.net/art/image/xorcurses-0.0.8-menu-xterm.png
+  license:
+  - GPL3
+  development: complete
+  originals:
+  - XOR
+  repo: https://github.com/jwm-art-net/XorCurses
+  type: clone
+  updated: 2013-06-06
+  url: http://jwm-art.net/?p=XorCurses
+
+- name: xoreos
+  development: active
+  framework:
+  - OpenGL
+  - SDL2
+  images:
+  - https://xoreos.org/images/NWN_20130528T054618.png
+  lang:
+  - C++
+  license:
+  - GPL3
+  content: commercial
+  originals:
+  - Neverwinter Nights
+  - Neverwinter Nights 2
+  - 'Star Wars: Knights of the Old Republic'
+  - "Star Wars: Knights of the Old Republic II \u2013 The Sith Lords"
+  - Jade Empire
+  - 'Sonic Chronicles: The Dark Brotherhood'
+  - The Witcher
+  - 'Dragon Age: Origins'
+  - Dragon Age II
+  repo: https://github.com/xoreos/xoreos
+  status: unplayable
+  type: remake
+  updated: 2016-10-14
+  url: https://xoreos.org/
+  video:
+    youtube: _EZRvDIB7wI
+
+- name: XorGramana
+  license:
+  - As-is
+  development: complete
+  originals:
+  - XOR
+  repo: http://www.jwm-art.net/XorGramana/XorGramana-0.0.8.tar.bz2
+  type: clone
+  updated: 2013-06-06
+  url: http://jwm-art.net/XorGramana/
+
+- name: XPilot NG
+  images:
+  - http://xpilot.sourceforge.net/shots/polybloods1.png
+  - http://xpilot.sourceforge.net/shots/xpilot_sdl.png
+  - http://xpilot.sourceforge.net/shots/fishtank.png
+  - http://xpilot.sourceforge.net/shots/dragon.png
+  - http://xpilot.sourceforge.net/shots/spaceball.png
+  lang:
+  - C
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - XPilot
+  repo: http://xpilot.cvs.sourceforge.net/viewvc/xpilot/
+  type: remake
+  updated: 2015-04-06
+  url: http://xpilot.sourceforge.net/
+
+- name: XQuest 2
+  images:
+  - http://www.swallowtail.org/xquest/xquest1.gif
+  - http://www.swallowtail.org/xquest/xquest2.gif
+  - http://www.swallowtail.org/xquest/xquest3.gif
+  lang:
+  - Pascal
+  license:
+  - Custom
+  originals:
+  - XQuest
+  repo: http://www.swallowtail.org/xquest/xquest_1.3_src.tar.gz
+  type: remake
+  updated: 2015-07-11
+  url: http://www.swallowtail.org/xquest/
+
+- name: xrick
+  lang:
+  - C
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Rick Dangerous
+  status: playable
+  type: remake
+  updated: 2014-01-12
+  url: http://www.bigorno.net/xrick
+
+- name: XScavenger
+  images:
+  - https://www.linuxmotors.com/scavenger/scav.gif
+  lang:
+  - C
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Lode Runner
+  status: playable
+  type: remake
+  repo: https://sourceforge.net/projects/sdlscavenger/
+  updated: 2017-10-20
+  url: https://www.linuxmotors.com/scavenger/index.html
+
+- name: XSwing Plus
+  lang:
+  - Java
+  license:
+  - GPL3
+  development: sporadic
+  originals:
+  - Swing
+  repo: https://sourceforge.net/p/xswingplus/code/HEAD/tree/
+  type: remake
+  updated: 2015-06-24
+  url: http://xswing.net/
+
+- name: xu4
+  images:
+  - http://xu4.sourceforge.net/images/intro1.png
+  - http://xu4.sourceforge.net/images/forest.png
+  - http://xu4.sourceforge.net/images/codex.png
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Ultima IV
+  repo: https://sourceforge.net/projects/xu4/
+  type: remake
+  url: http://xu4.sourceforge.net/
+  updated: 2018-10-06

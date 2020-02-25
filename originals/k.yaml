@@ -1,0 +1,75 @@
+- name: Kaboom!
+  external:
+    wikipedia: Kaboom! (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Ken's Labyrinth
+  external:
+    wikipedia: Ken's Labyrinth
+  meta:
+    genre:
+    - FPS
+    
+- name: Kick Off
+  names:
+  - Kick Off 2
+  external:
+    wikipedia: Kick Off (series)
+  platform:
+  - Amiga
+  - Atari
+  - DOS
+  meta:
+    genre:
+    - Sports
+    subgenre:
+    - Football
+
+- name: Kid Chameleon
+  external:
+    wikipedia: Kid Chameleon (video game)
+  meta:
+    genre:
+    - Platform
+
+- name: Knights
+  external:
+    wikipedia: Knights (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Knights and Merchants
+  external:
+    wikipedia: Knights and Merchants
+  meta:
+    genre:
+    - Real-Time Strategy
+    
+- name: Krush, Kill 'n' Destroy
+  names:
+  - "Krush, Kill 'n' Destroy Xtreme"
+  - "Krush, Kill 'n' Destroy 2: Krossfire"
+  external:
+    wikipedia: KKnD (series)
+  platform:
+  - Windows
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - Post-Apocalyptic
+    
+- name: Kula World
+  external:
+    wikipedia: Kula World
+  meta:
+    genre:
+    - Platform
+    - Puzzle
+  names:
+  - Roll Away
+  - Kula Quest
+

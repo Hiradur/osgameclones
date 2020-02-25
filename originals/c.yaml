@@ -1,0 +1,429 @@
+- name: C-Dogs
+  external:
+    wikipedia: C-Dogs
+  meta:
+    genre:
+    - Shmup
+    subgenre:
+    - Run and gun
+
+- name: Cadaver
+  external:
+    wikipedia: Cadaver (video game)
+  meta:
+    genre:
+    - Action
+    - Adventure
+
+- name: Caesar 3
+  external:
+    wikipedia: Caesar 3
+  meta:
+    genre:
+    - Simulation
+    - Strategy
+    subgenre:
+    - City Building
+    theme:
+    - Management
+
+- name: Call to Power II
+  external:
+    wikipedia: Call to Power II
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Candy Crush Saga
+  external:
+    wikipedia: Candy Crush Saga
+  meta:
+    genre:
+    - Puzzle
+
+- name: Cannon Fodder
+  external:
+    wikipedia: Cannon Fodder (series)
+  meta:
+    genre:
+    - Action
+    - Real-Time Strategy
+    - Shmup
+
+- name: Carmageddon
+  external:
+    wikipedia: Carmageddon
+  meta:
+    genre:
+    - Racing
+
+- name: Castle of the Winds
+  external:
+    wikipedia: Castle of the Winds
+  meta:
+    genre:
+    - Roguelike
+
+- name: Cataclysm
+  external:
+    website: http://cataclysmrl.blogspot.com/
+  meta:
+    genre:
+    - Roguelike
+    subgenre:
+    - Survival
+    theme:
+    - Horror
+
+- name: Catacomb
+  names:
+  - Catacomb II
+  external:
+    wikipedia: Catacomb (video game)
+  meta:
+    genre:
+    - Action
+    - TPS
+    theme:
+    - Fantasy
+
+- name: Catacomb 3-D
+  names:
+  - Catacomb Adventure Series
+  external:
+    wikipedia: Catacomb 3-D
+  meta:
+    genre:
+    - Action
+    - FPS
+    theme:
+    - Fantasy
+
+- name: Cave Story
+  external:
+    wikipedia: Cave Story
+  meta:
+    genre:
+    - Adventure
+    - Platform
+    theme:
+    - Sci-Fi
+  names:
+  - Doukutsu Monogatari
+
+- name: Chip's Challenge
+  external:
+    wikipedia: Chip's Challenge
+  meta:
+    genre:
+    - Puzzle
+
+- name: Chris Sawyer's Locomotion
+  external:
+    wikipedia: Chris Sawyer's Locomotion
+  platform:
+    - Windows
+  meta:
+    genre:
+    - Strategy
+    - Simulation
+    theme:
+    - Management
+
+- name: ChuChu Rocket!
+  external:
+    wikipedia: ChuChu Rocket!
+  meta:
+    genre:
+    - Puzzle
+    - Action
+
+- name: Circus Atari
+  external:
+    wikipedia: Circus (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Civilization
+  external:
+    wikipedia: Civilization (video game)
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Civilization II
+  external:
+    wikipedia: Civilization II
+  meta:
+    genre:
+    - Turn-Based Strategy
+    subgenre:
+    - 4X
+    theme:
+    - Alternate Historical
+    - Management
+    
+- name: Civilization V
+  external:
+    wikipedia: Civilization V
+  meta:
+    genre:
+    - Turn-Based Strategy
+    subgenre:
+    - 4X
+    theme:
+    - Alternate Historical
+    - Management
+
+- name: Claw
+  external:
+    wikipedia: Claw (video game)
+  meta:
+    genre:
+    - Platform
+
+- name: Clonk
+  external:
+    wikipedia: Clonk
+  meta:
+    genre:
+    - Action
+    - Platform
+    - Real-Time Strategy
+
+- name: Colobot
+  names:
+  - Colonize with Bots
+  external:
+    wikipedia: Colobot
+  platform:
+  - Windows
+  - Linux
+  meta:
+    genre:
+    - Educational
+    - Real-Time Strategy
+    theme:
+    - Sci-Fi
+
+- name: Coloris
+  external:
+    website: https://www.mobygames.com/game/amiga/coloris_
+  meta:
+    genre:
+    - Puzzle
+
+- name: Columns
+  external:
+    wikipedia: Columns (video game)
+  meta:
+    genre:
+    - Puzzle
+
+- name: Command & Conquer
+  external:
+    wikipedia: Command & Conquer
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - Modern Military
+
+- name: 'Command & Conquer: Generals'
+  external:
+    wikipedia: 'Command & Conquer: Generals'
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - Sci-Fi
+    - Modern Military
+
+- name: 'Command & Conquer: Red Alert'
+  external:
+    wikipedia: 'Command & Conquer: Red Alert'
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - Modern Military
+
+- name: Commander Keen Series
+  external:
+    wikipedia: Commander Keen
+  meta:
+    genre:
+    - Platform
+
+- name: Commando
+  external:
+    wikipedia: Commando (video game)
+  meta:
+    genre:
+    - Shmup
+
+- name: Company of Heroes
+  external:
+    wikipedia: Company of Heroes
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - World War II
+
+- name: Company of Heroes 2
+  external:
+    wikipedia: Company of Heroes 2
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - World War II
+
+- name: 'Company of Heroes: Opposing Fronts'
+  external:
+    wikipedia: 'Company of Heroes: Opposing Fronts'
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - World War II
+
+- name: 'Company of Heroes: Tales of Valor'
+  external:
+    wikipedia: 'Company of Heroes: Tales of Valor'
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - World War II
+
+- name: Contra
+  external:
+    wikipedia: Contra (video game)
+  meta:
+    genre:
+    - Platform
+
+- name: Cookie Clicker
+  external:
+    wikipedia: Cookie Clicker
+  meta:
+    genre:
+    - Arcade
+
+- name: Cortex Command
+  external:
+    website: http://tradestar.datarealms.com/games.html
+    wikipedia: Cortex Command
+  meta:
+    genre:
+    - Action
+    - Real-Time Tactics
+    theme:
+    - Sci-Fi
+
+- name: Cosmic Ark
+  external:
+    wikipedia: Cosmic Ark
+  meta:
+    genre:
+    - Action
+
+- name: Counter-Strike
+  external:
+    wikipedia: Counter-Strike (video game)
+  meta:
+    genre:
+    - FPS
+
+- name: Crazy Cars
+  external:
+    wikipedia: Titus Software
+  meta:
+    genre:
+    - Racing
+
+- name: Crazy Machines
+  external:
+    wikipedia: Crazy Machines
+  meta:
+    genre:
+    - Puzzle
+    - Simulation
+
+- name: Crazy Machines 2
+  external:
+    wikipedia: Crazy Machines 2
+  meta:
+    genre:
+    - Puzzle
+    - Simulation
+
+- name: 'Crazy Machines: The Wacky Contraptions Game'
+  external:
+    wikipedia: 'Crazy Machines: The Wacky Contraptions Game'
+  meta:
+    genre:
+    - Puzzle
+    - Simulation
+
+- name: Creatures
+  external:
+    wikipedia: Creatures (video game)
+  meta:
+    genre:
+    - Puzzle
+
+- name: Crimsonland
+  external:
+    wikipedia: Crimsonland
+  meta:
+    genre:
+    - Shmup
+
+- name: Crystal Caves
+  external:
+    wikipedia: Crystal Caves
+  meta:
+    genre:
+    - Platform
+
+- name: Crystal Quest
+  external:
+    wikipedia: Crystal Quest
+  meta:
+    genre:
+    - Arcade
+
+- name: 'Cube 2: Sauerbraten'
+  external:
+    wikipedia: 'Cube 2: Sauerbraten'
+  meta:
+    genre:
+    - FPS
+    subgenre: []
+    theme: []
+
+- name: 'Cube World'
+  external:
+    wikipedia: 'Cube World'
+  meta:
+    genre:
+    - RPG
+
+- name: Curse of the Azure Bonds
+  external:
+    wikipedia: Curse of the Azure Bonds
+  meta:
+    genre:
+    - RPG
+
+- name: Cytadela
+  external:
+    website: http://www.ppa.pl/gry/cytadela.html
+  meta:
+    genre:
+    - FPS
+

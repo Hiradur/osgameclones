@@ -1,0 +1,811 @@
+- name: 'Septerra Core: Legacy of the Creator'
+  external:
+    website: https://web.archive.org/web/20070320131930/http://www.valkyriestudios.com/scgame.htm
+    wikipedia: Septerra Core
+  platform:
+  - Linux
+  - OSX
+  - Windows
+  meta:
+    genre:
+    - RPG
+    theme:
+    - Anime
+    - Fantasy
+    - Sci-Fi
+
+- name: Scorched Earth
+  external:
+    wikipedia: Scorched Earth
+  meta:
+    genre:
+    - Turn-Based Tactics
+
+- name: Scramble
+  external:
+    wikipedia: Scramble (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Sea Dragon
+  external:
+    wikipedia: Sea Dragon
+  meta:
+    genre:
+    - Action
+    - Shooter
+  platform:
+  - Apple II
+  - Atari
+  - Commodore 64
+  - DOS
+
+- name: Sea Wolf
+  external:
+    wikipedia: Sea Wolf (video game)
+  platform:
+  - Arcade
+  - Commodore 64
+  meta:
+    genre:
+    - Shooter
+
+- name: Seaquest
+  external:
+    wikipedia: Seaquest
+  meta:
+    genre:
+    - Arcade
+
+- name: Sensible Soccer
+  external:
+    wikipedia: Sensible Soccer
+  meta:
+    genre:
+    - Sports
+    subgenre:
+    - Soccer
+
+- name: Sensitive
+  external:
+    website: https://www.mobygames.com/game/c64/sensitive
+  meta:
+    genre:
+    - Puzzle
+    - Arcade
+
+- name: Seven Kingdoms
+  external:
+    wikipedia: Seven Kingdoms (computer game)
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Shadow of the Beast
+  external:
+    wikipedia: Shadow of the Beast
+  meta:
+    genre:
+    - Platform
+
+- name: Shadow Warrior
+  external:
+    wikipedia: Shadow Warrior
+  meta:
+    genre:
+    - FPS
+
+- name: 'Shadowgrounds: Survivor'
+  external:
+    wikipedia: 'Shadowgrounds: Survivor'
+  meta:
+    genre:
+    - Shooter
+
+- name: Shining Force II
+  external:
+    wikipedia: Shining Force II
+  meta:
+    genre:
+    - RPG
+
+- name: Shining Soul
+  external:
+    wikipedia: Shining Soul
+  meta:
+    genre:
+    - Action
+    - RPG
+
+- name: Ship Simulator 2006
+  external:
+    wikipedia: Ship Simulator 2006
+  meta:
+    genre:
+    - Simulation
+
+- name: Ship Simulator 2008
+  external:
+    wikipedia: Ship Simulator 2008
+  meta:
+    genre:
+    - Simulation
+
+- name: Ship Simulator Extremes
+  external:
+    wikipedia: Ship Simulator Extremes
+  meta:
+    genre:
+    - Simulation
+
+- name: Shobon Action
+  external:
+    wikipedia: Shobon Action
+  meta:
+    genre:
+    - Platform
+
+- name: Sid Meier's Alpha Centauri
+  external:
+    wikipedia: Sid Meier's Alpha Centauri
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Sid Meier's Colonization
+  external:
+    wikipedia: Sid Meier's Colonization
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Sid Meier's Pirates!
+  external:
+    wikipedia: Sid Meier's Pirates!
+  meta:
+    genre:
+    - Action
+    - Adventure
+    - Real-Time Strategy
+
+- name: Siege
+  external:
+    wikipedia: Siege (video game)
+  meta:
+    genre:
+    - Puzzle
+    - Arcade
+
+- name: Siege of Avalon
+  external:
+    wikipedia: Siege of Avalon
+  meta:
+    genre:
+    - Action
+    - RPG
+
+- name: Silencer
+  external:
+    wikipedia: Silencer (video game)
+  meta:
+    genre:
+    - Action
+
+- name: Silent Hill 2
+  external:
+    wikipedia: Silent Hill 2
+  platform:
+  - PlayStation 2
+  - Windows
+  - Xbox
+  meta:
+    genre:
+    - TPS
+    subgenre:
+    - Survival
+    theme:
+    - Horror
+
+- name: Silent Hunter 4
+  external:
+    wikipedia: Silent Hunter 4
+  meta:
+    genre:
+    - Action
+    - Simulation
+    subgenre:
+    - Submarine Simulator
+    theme:
+    - World War II
+
+- name: Simcity
+  external:
+    wikipedia: Simcity
+  meta:
+    genre:
+    - Simulation
+    theme:
+    - Management
+
+- name: SimCity 2000
+  external:
+    wikipedia: SimCity 2000
+  meta:
+    genre:
+    - Simulation
+
+- name: SimCopter
+  external:
+    wikipedia: SimCopter
+  meta:
+    genre:
+    - Simulation
+
+- name: Simon
+  external:
+    wikipedia: Simon (game)
+  meta:
+    genre:
+    - Arcade
+
+- name: SimTower
+  external:
+    wikipedia: SimTower
+  meta:
+    genre:
+    - Simulation
+    - Strategy
+    theme:
+    - Management
+
+- name: SingStar
+  external:
+    wikipedia: SingStar
+  meta:
+    genre:
+    - Rhythm
+
+- name: SkiFree
+  external:
+    wikipedia: SkiFree
+  meta:
+    genre:
+    - Arcade
+    - Sports
+    subgenre:
+    - Skiing
+
+- name: Skool Daze
+  external:
+    wikipedia: Skool Daze
+  meta:
+    genre:
+    - Action
+    - Adventure
+    - Platform
+
+- name: SkyRoads
+  external:
+    wikipedia: SkyRoads (video game)
+  meta:
+    genre:
+    - Platform
+
+- name: Slime Volleyball
+  platform:
+  - Windows
+  - Linux
+  - OSX
+  external:
+    website: https://oneslime.net/
+  meta:
+    genre:
+    - Sports
+    subgenre:
+    - Volleyball
+
+- name: Slot Racers
+  external:
+    wikipedia: Slot Racers
+  meta:
+    genre:
+    - Arcade
+
+- name: Snake
+  external:
+    wikipedia: Snake (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Snipes
+  external:
+    wikipedia: Snipes (video game)
+
+- name: Sokoban
+  external:
+    wikipedia: Sokoban
+  meta:
+    genre:
+    - Puzzle
+
+- name: Solar Fox
+  external:
+    wikipedia: Solar Fox
+  meta:
+    genre:
+    - Arcade
+
+- name: Sonic Adventure
+  names:
+  - Sonic Adventure 2
+  external:
+    wikipedia: Sonic Adventure
+  platform:
+  - Dreamcast
+  - GameCube
+  - PlayStation 3
+  - Windows
+  - Xbox 360
+  meta:
+    genre:
+    - Action
+    - Platform
+
+- name: 'Sonic Chronicles: The Dark Brotherhood'
+  external:
+    wikipedia: 'Sonic Chronicles: The Dark Brotherhood'
+  meta:
+    genre:
+    - RPG
+
+- name: Sonic the Hedgehog
+  external:
+    wikipedia: Sonic the Hedgehog
+  meta:
+    genre:
+    - Platform
+
+- name: Sopwith
+  external:
+    wikipedia: Sopwith (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Space Harrier
+  external:
+    wikipedia: Space Harrier
+  platform:
+  - Arcade
+  meta:
+    genre:
+    - TPS
+    theme:
+    - Sci-Fi
+
+- name: Space Invaders
+  external:
+    wikipedia: Space Invaders
+  meta:
+    genre:
+    - Arcade
+
+- name: Space Rangers
+  external:
+    wikipedia: Space Rangers (video game)
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: 'Space Rangers 2: Dominators'
+  external:
+    wikipedia: 'Space Rangers 2: Dominators'
+  meta:
+    genre:
+    - Real-Time Strategy
+    - Adventure
+    - Shmup
+    - RPG
+    - TPS
+
+- name: Space Station 13
+  external:
+    wikipedia: Space Station 13
+  meta:
+    genre:
+    - RPG
+    - Simulation
+    theme:
+    - Sci-Fi
+    - Comedy
+    - Espionage
+
+- name: Spear of Destiny
+  external:
+    wikipedia: Spear of Destiny (video game)
+  meta:
+    genre:
+    - FPS
+
+- name: Speedball 2
+  external:
+    wikipedia: Speedball 2
+  meta:
+    genre:
+    - Action
+    - Sports
+    subgenre:
+    - Handball
+    - Hockey
+    theme:
+    - Sci-Fi
+    - Cyberpunk
+
+- name: Spore
+  platform:
+  - Windows
+  meta:
+    genre:
+    - Simulation
+    - Real-Time Strategy
+    subgenre:
+    - Life
+    theme:
+    - Sci-Fi
+  external:
+    wikipedia: Spore (2008 video game)
+
+- name: Star Control 2
+  external:
+    wikipedia: Star Control 2
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Star Fox 64
+  external:
+    wikipedia: Star Fox 64
+  meta:
+    genre:
+    - Action
+    - Flight
+    - TPS
+    theme:
+    - Sci-Fi
+
+- name: Star Raiders
+  external:
+    wikipedia: Star Raiders
+  meta:
+    genre:
+    - Action
+    - Simulation
+    theme:
+    - Sci-Fi
+
+- name: Star Ruler 2
+  external:
+    website: http://www.mobygames.com/game/star-ruler-2
+  meta:
+    genre:
+    - Real-Time Strategy
+    subgenre:
+    - 4X
+    theme:
+    - Sci-Fi
+
+- name: "Star Trek: Voyager \u2013 Elite Force"
+  external:
+    wikipedia: "Star Trek: Voyager \u2013 Elite Force"
+  meta:
+    genre:
+    - FPS
+
+- name: Star Wars (1983 arcade game)
+  external:
+    wikipedia: Star Wars (1983 video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: 'Star Wars: Galactic Battlegrounds'
+  external:
+    wikipedia: 'Star Wars: Galactic Battlegrounds'
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - Sci-Fi
+
+- name: 'Star Wars Jedi Knight: Dark Forces II'
+  external:
+    wikipedia: 'Star Wars Jedi Knight: Dark Forces II'
+  meta:
+    genre:
+    - FPS
+    theme:
+    - Sci-Fi
+
+- name: 'Star Wars: Knights of the Old Republic'
+  external:
+    wikipedia: 'Star Wars: Knights of the Old Republic'
+  meta:
+    genre:
+    - RPG
+    theme:
+    - Sci-Fi
+
+- name: "Star Wars: Knights of the Old Republic II \u2013 The Sith Lords"
+  external:
+    wikipedia: "Star Wars: Knights of the Old Republic II \u2013 The Sith Lords"
+  meta:
+    genre:
+    - RPG
+    theme:
+    - Sci-Fi
+
+- name: 'Star Wars: Yoda Stories'
+  external:
+    wikipedia: 'Star Wars: Yoda Stories'
+  meta:
+    genre:
+    - RPG
+
+- name: 'Star Wars Episode I: Racer'
+  platform:
+  - Windows
+  external:
+    wikipedia: 'Star Wars Episode I: Racer'
+  meta:
+    genre:
+    - Racing
+    theme:
+    - Sci-Fi
+
+- name: Starcraft
+  external:
+    wikipedia: Starcraft
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Stars!
+  external:
+    wikipedia: Stars!
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Starshatter
+  external:
+    wikipedia: Starshatter
+  meta:
+    genre:
+    - Simulation
+    subgenre:
+    - Space Flight
+    theme:
+    - Sci-Fi
+
+- name: Story of Seasons series
+  external:
+    wikipedia: Story of Seasons (series)
+  meta:
+    genre:
+    - Simulation
+    theme:
+    - Anime
+  names:
+  - Harvest Moon
+
+- name: 'Stratosphere: Conquest of the Skies'
+  external:
+    website: http://www.mobygames.com/game/windows/stratosphere-conquest-of-the-skies
+  meta:
+    genre:
+    - Real-Time Strategy
+    - TPS
+
+- name: Streets of Rage
+  external:
+    wikipedia: Streets_of_Rage_(video_game)
+  meta:
+    genre:
+    - Action
+
+- name: Strife
+  external:
+    wikipedia: Strife (1996 video game)
+  meta:
+    genre:
+    - Action
+    - FPS
+    - RPG
+    theme:
+    - Post-Apocalyptic
+    - Sci-Fi
+
+- name: Strike Commander
+  external:
+    wikipedia: Strike Commander
+  meta:
+    genre:
+    - Action
+    - Simulation
+    subgenre:
+    - Flight Simulator
+    theme:
+    - Modern Military
+
+- name: Strikers 1945
+  external:
+    wikipedia: Strikers 1945
+  meta:
+    genre:
+    - Shmup
+
+- name: Stronghold
+  external:
+    wikipedia: Stronghold (2001 video game)
+  platform:
+  - Windows
+  meta:
+    genre:
+    - Real-Time Strategy
+    theme:
+    - Medieval
+
+- name: Stunt Car Racer
+  external:
+    wikipedia: Stunt Car Racer
+  meta:
+    genre:
+    - Racing
+
+- name: Stunts
+  external:
+    wikipedia: Stunts (video game)
+  meta:
+    genre:
+    - Racing
+  names:
+  - 4D Sports Driving
+
+- name: Styx
+  external:
+    wikipedia: Styx (Spectrum video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: 'SunDog: Frozen Legacy'
+  external:
+    wikipedia: 'SunDog: Frozen Legacy'
+  meta:
+    genre:
+    - RPG
+    subgenre:
+    - Space Flight
+
+- name: Supaplex
+  external:
+    wikipedia: Supaplex
+  meta:
+    genre:
+    - Puzzle
+
+- name: Super Cars
+  external:
+    wikipedia: Super Cars
+  meta:
+    genre:
+    - Racing
+
+- name: Super Foul Egg
+  external:
+    wikipedia: Super Foul Egg
+  meta:
+    genre:
+    - Puzzle
+    - Arcade
+
+- name: Super Hexagon
+  external:
+    wikipedia: Super Hexagon
+  meta:
+    genre:
+    - Rhythm
+
+- name: Super Mario
+  external:
+    wikipedia: Super Mario (series)
+  meta:
+    genre:
+    - Platform
+
+- name: Super Methane Brothers
+  external:
+    wikipedia: Super Methane Bros.
+  meta:
+    genre:
+    - Platform
+    - Arcade
+
+- name: Super Monkey Ball
+  external:
+    wikipedia: Super Monkey Ball
+  meta:
+    genre:
+    - Arcade
+    - Platform
+
+- name: Super Smash Bros.
+  external:
+    wikipedia: Super Smash Bros.
+  platform:
+  - N64
+  meta:
+    genre:
+    - Fighting
+
+- name: Supreme Commander
+  external:
+    wikipedia: Supreme Commander
+  platform:
+  - Windows
+  - Xbox 360
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Survivor (1986)
+  external:
+    wikipedia: Survivor (video game)
+  meta:
+    genre:
+    - Puzzle
+
+- name: Swing
+  external:
+    wikipedia: Swing (video game)
+  meta:
+    genre:
+    - Puzzle
+    - Arcade
+
+- name: Syndicate
+  external:
+    wikipedia: Syndicate (video game)
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Syndicate Wars
+  external:
+    wikipedia: Syndicate Wars
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: System Shock
+  external:
+    wikipedia: System Shock
+  meta:
+    genre:
+    - RPG
+    - FPS
+  names:
+  - 'System Shock: Enhanced Edition'
+  platform:
+  - DOS
+  - Windows
+
+- name: Super Metroid
+  external:
+    wikipedia: Super Metroid
+  meta:
+    genre:
+      - Action
+      - Adventure

@@ -1,75 +1,221 @@
-- name: [Kaboom!, Kaboom! (video game)]
-  remakes:
-  - name: DonkeyInTrouble
-    updated: 2015-06-22
-    repo: https://github.com/Zap123/DonkeyInTrouble
-    development: sporadic
-    lang: Lua
-    framework: "L\xD6VE"
+- name: KaM Remake
+  images:
+  - http://www.kamremake.com/wp-content/uploads/2011/10/Menu.png
+  - http://www.kamremake.com/wp-content/uploads/2011/11/tnp.jpg
+  - http://www.kamremake.com/wp-content/uploads/2011/10/RiverOfGold-4.jpg
+  - http://www.kamremake.com/wp-content/uploads/2011/10/Multiplayer1.jpg
+  lang:
+  - Delphi
+  license:
+  - AGPL3
+  development: active
+  originals:
+  - Knights and Merchants
+  repo: https://github.com/Kromster80/kam_remake
+  type: remake
+  updated: 2012-04-05
+  url: http://www.kamremake.com/
 
-- name: [Kid Chameleon, Kid Chameleon (video game)]
-  remakes:
-  - name: KidChameleonRemake
-    updated: 2015-05-29
-    repo: https://github.com/mp1011/KidChameleonRemake
-    development: active
-    lang: C#
+- name: Kartering
+  framework:
+  - SDL2
+  lang:
+  - C
+  license:
+  - GPL2
+  - MIT
+  - ISC
+  development: sporadic
+  originals:
+  - Mario Kart
+  repo: https://github.com/sandsmark/kart
+  type: similar
+  updated: 2019-09-14
+  info: 2D racing game inspired by Mario Kart. Network play only, designed as a programming game, but supports human controls.
 
-- name: [Knights, Knights (video game)]
-  remakes:
-  - name: Knights
-    updated: 2015-04-15
-    url: http://www.knightsgame.org.uk/
-    repo: http://www.knightsgame.org.uk/files/knights_025_src.tar.gz
-    development: active
-    lang: C++
-    license: [GPL3]
-    images:
-    - http://www.knightsgame.org.uk/images/knights1.png
-    - http://www.knightsgame.org.uk/images/knights2.png
-    - http://www.knightsgame.org.uk/images/knights3.png
-    - http://www.knightsgame.org.uk/images/knights4.png
-    - http://www.knightsgame.org.uk/images/knights5.png
-    - http://www.knightsgame.org.uk/images/quest_selection.png
+- name: Kathodos
+  framework:
+  - Panda3D
+  lang:
+  - Python
+  license:
+  - As-is
+  development: halted
+  originals:
+  - Descent
+  - Descent II
+  repo: https://github.com/jvranish/Kathodos
+  type: remake
+  updated: 2015-05-28
 
-- name: Knights and Merchants
-  remakes:
-  - name: KaM Remake
-    url: http://www.kamremake.com/
-    repo: https://github.com/Kromster80/kam_remake
-    development: active
-    lang: Delphi
-    updated: 2012-04-05
-    images:
-    - http://www.kamremake.com/wp-content/uploads/2011/10/Menu.png
-    - http://www.kamremake.com/wp-content/uploads/2011/11/tnp.jpg
-    - http://www.kamremake.com/wp-content/uploads/2011/10/RiverOfGold-4.jpg
-    - http://www.kamremake.com/wp-content/uploads/2011/10/Multiplayer1.jpg
+- name: KAtomic
+  images:
+  - https://www.kde.org/images/screenshots/katomic.png
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: active
+  originals:
+  - Atomix
+  repo: https://cgit.kde.org/katomic.git/
+  type: remake
+  updated: 2019-08-27
+  url: https://www.kde.org/applications/games/katomic/
 
-- name: Kula World
-  names:
-  - Roll Away
-  - Kula Quest
-  remakes:
-  - name: Cubosphere
-    updated: 2015-04-14
-    url: http://sourceforge.net/projects/cubosphere/
-    repo: http://cubosphere.bzr.sourceforge.net/bzr/cubosphere/changes
-    development: halted
-    lang: C++
-    license: [GPL3]
+- name: Keen Dreams
+  images:
+  - http://cloud-3.steamusercontent.com/ugc/26216921914590827/8AECCAA9C1AA07D02F357A41AEFB074FC02A75A1/
+  lang:
+  - C
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Commander Keen Series
+  repo: https://github.com/keendreams/keen
+  type: remake
+  updated: 2019-03-12
+  video:
+    youtube: 23SahL6eG6A
 
-- name: Ken's Labyrinth
-  remakes:
-  - name: LAB3D/SDL
-    updated: 2015-04-10
-    url: https://icculus.org/LAB3D/
-    repo: svn://svn.icculus.org/LAB3D/trunk
-    development: sporadic
-    lang: C
-    images:
-    - https://icculus.org/LAB3D/captur00.png
-    - https://icculus.org/LAB3D/captur04.png
-    - https://icculus.org/LAB3D/captur02.png
-    - https://icculus.org/LAB3D/captur03.png
+- name: KeeperFX
+  lang:
+  - C
+  license:
+  - As-is
+  development: halted
+  originals:
+  - Dungeon Keeper
+  repo: https://github.com/dkfans/keeperfx
+  type: remake
+  updated: 2017-10-23
+  url: http://keeper.lubiki.pl/html/dk_keeperfx.php
 
+- name: KGoldrunner
+  framework:
+  - SDL2
+  images:
+  - https://www.kde.org/images/screenshots/kgoldrunner.png
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: active
+  originals:
+  - Lode Runner
+  repo: https://quickgit.kde.org/?p=kgoldrunner.git
+  status: playable
+  type: remake
+  updated: 2016-05-31
+  url: https://www.kde.org/applications/games/kgoldrunner/
+
+- name: KidChameleonRemake
+  lang:
+  - C#
+  license:
+  - As-is
+  development: halted
+  originals:
+  - Kid Chameleon
+  repo: https://github.com/mp1011/KidChameleonRemake
+  type: remake
+  updated: 2015-05-29
+
+- name: KittenMaxit
+  framework:
+  - LibGDX
+  license:
+  - MIT
+  development: sporadic
+  originals:
+  - Maxit
+  repo: https://github.com/ahmetkasif/KittenMaxit
+  type: remake
+  updated: 2019-09-13
+
+- name: KKnD
+  type: remake
+  originals:
+  - Krush, Kill 'n' Destroy
+  repo: https://github.com/IceReaper/KKnD
+  url: https://www.kknd-game.com/
+  development: sporadic
+  status: semi-playable
+  lang:
+  - C#
+  license:
+  - GPL3
+  content: free
+  info: KKnD is built on top of OpenRA engine
+  updated: 2019-03-22
+  images:
+  - https://www.kknd-game.com/assets/release-20181215.jpg
+  video:
+    youtube: X78IKTSucE0
+
+- name: KnightOfWor
+  lang:
+  - Java
+  license:
+  - GPL3
+  development: active
+  originals:
+  - Wizard of Wor
+  repo: https://github.com/Sanguinik/KnightOfWor
+  type: remake
+  updated: 2015-05-29
+
+- name: Knights
+  images:
+  - http://www.knightsgame.org.uk/images/knights1.png
+  - http://www.knightsgame.org.uk/images/knights2.png
+  - http://www.knightsgame.org.uk/images/knights3.png
+  - http://www.knightsgame.org.uk/images/knights4.png
+  - http://www.knightsgame.org.uk/images/knights5.png
+  - http://www.knightsgame.org.uk/images/quest_selection.png
+  lang:
+  - C++
+  license:
+  - GPL3
+  development: active
+  originals:
+  - Knights
+  repo: http://www.knightsgame.org.uk/files/knights_025_src.tar.gz
+  type: remake
+  updated: 2015-04-15
+  url: http://www.knightsgame.org.uk/
+
+- name: Krystal Drop
+  images:
+  - http://krystaldrop.sourceforge.net/images/sshot1.png
+  - http://krystaldrop.sourceforge.net/images/sshot2.png
+  - http://krystaldrop.sourceforge.net/images/sshot3.png
+  - http://krystaldrop.sourceforge.net/images/sshot4.png
+  - http://krystaldrop.sourceforge.net/images/sshot5.png
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Magical Drop
+  repo: http://prdownloads.sourceforge.net/krystaldrop/src_0.7.2.tgz?download
+  type: remake
+  updated: 2015-04-15
+  url: http://krystaldrop.sourceforge.net/
+
+- name: KZap
+  images:
+  - http://kzap.sourceforge.net/kzap.png
+  lang:
+  - C++
+  license:
+  - GPL2
+  development: halted
+  originals:
+  - Zoop
+  repo: http://prdownloads.sourceforge.net/kzap/kzap-0.2.tar.gz
+  type: remake
+  updated: 2015-05-09
+  url: http://kzap.sourceforge.net/

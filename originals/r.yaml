@@ -1,0 +1,189 @@
+- name: R-Type
+  external:
+    wikipedia: R-Type
+  meta:
+    genre:
+    - Shmup
+
+- name: Railroad Tycoon
+  external:
+    wikipedia: Railroad Tycoon
+  meta:
+    genre:
+    - Simulation
+    - Strategy
+    theme:
+    - Management
+
+- name: Rampart
+  external:
+    wikipedia: Rampart (video game)
+  meta:
+    genre:
+    - Shmup
+    - Puzzle
+
+- name: 'Raptor: Call of the Shadows'
+  external:
+    wikipedia: 'Raptor: Call of the Shadows'
+  meta:
+    genre:
+    - Shmup
+
+- name: Redneck Rampage
+  external:
+    wikipedia: Redneck Rampage
+  platform:
+  - DOS
+  - OSX
+  meta:
+    genre:
+    - FPS
+
+- name: Rescue!
+  external:
+    wikipedia: Rescue!
+  meta:
+    genre:
+    - Action
+    - Adventure
+
+- name: 'Return of the Incredible Machine: Contraptions'
+  external:
+    wikipedia: 'Return of the Incredible Machine: Contraptions'
+  meta:
+    genre:
+    - Puzzle
+    - Simulation
+
+- name: Return to Castle Wolfenstein
+  external:
+    wikipedia: Return to Castle Wolfenstein
+  platform:
+  - Linux
+  - OSX
+  - PlayStation 2
+  - Windows
+  - Xbox
+  meta:
+    genre:
+    - FPS
+    theme:
+    - Sci-Fi
+    - World War II
+
+- name: Rick Dangerous
+  external:
+    wikipedia: Rick Dangerous
+  meta:
+    genre:
+    - Platform
+    
+- name: RimWorld
+  external:
+    wikipedia: RimWorld
+  platform:
+  - Windows
+  meta:
+    genre:
+    - Simulation
+    theme:
+    - Sci-Fi
+
+- name: Rise of the Triad
+  external:
+    wikipedia: Rise of the Triad
+  meta:
+    genre:
+    - FPS
+
+- name: River Raid
+  external:
+    wikipedia: River Raid
+  meta:
+    genre:
+    - Shmup
+
+- name: Road Fighter
+  external:
+    wikipedia: Road Fighter
+  meta:
+    genre:
+    - Racing
+    - Arcade
+
+- name: Robotfindskitten
+  external:
+    wikipedia: Robotfindskitten
+  meta:
+    genre:
+    - Adventure
+    - Roguelike
+    theme:
+    - Sci-Fi
+    - Meditative
+    - Comedy
+
+- name: 'Robotron: 2084'
+  external:
+    wikipedia: 'Robotron: 2084'
+  meta:
+    genre:
+    - Arcade
+
+- name: Rodent's Revenge
+  external:
+    wikipedia: Rodent's Revenge
+  meta:
+    genre:
+    - Puzzle
+
+- name: Rogue
+  external:
+    wikipedia: Rogue_(video_game)
+  meta:
+    genre:
+    - Roguelike
+
+- name: RollerCoaster Tycoon
+  external:
+    wikipedia: RollerCoaster Tycoon
+  meta:
+    genre:
+    - Simulation
+    - Strategy
+    theme:
+    - Management
+
+- name: RollerCoaster Tycoon 2
+  external:
+    wikipedia: RollerCoaster Tycoon 2
+  meta:
+    genre:
+    - Simulation
+    - Strategy
+    theme:
+    - Management
+
+- name: RPG Maker
+  external:
+    wikipedia: RPG Maker
+  meta:
+    genre:
+    - RPG
+
+- name: Runescape Classic
+  external:
+    website: 'https://classic.runescape.wiki/'
+  meta:
+    genre: 
+    - MMORPG
+    - Adventure
+
+- name: Ryzom
+  external:
+    wikipedia: Ryzom
+  meta:
+    genre:
+    - MMORPG
+

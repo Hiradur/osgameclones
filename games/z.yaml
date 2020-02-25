@@ -1,83 +1,228 @@
-- name: Zarch
-  remakes:
-  - name: Ajax3d
-    url: http://ajax3d.sourceforge.net/
-    updated: 2015-10-09
-    development: halted
-    lang: JavaScript
-    license: [GPL2]
-    repo: http://ajax3d.cvs.sourceforge.net/viewvc/ajax3d/
-    images:
-    - http://a.fsdn.com/con/app/proj/ajax3d/screenshots/113223.jpg
-    - http://a.fsdn.com/con/app/proj/ajax3d/screenshots/113221.jpg
-  - name: Z Virus
-    updated: 2015-10-09
-    url: http://www.blitzbasic.com/Community/posts.php?topic=38995
-    repo: http://www.steviegoodwin.plus.com/Z_Virus.zip
-    lang: Blitz BASIC
-  - name: Z Virus V2
-    updated: 2015-10-09
-    repo: http://www.steviegoodwin.plus.com/Z_Virus_V2.zip
-    lang: Blitz BASIC
+- name: Z Virus
+  lang:
+  - Blitz BASIC
+  license:
+  - As-is
+  originals:
+  - Zarch
+  repo: http://www.steviegoodwin.plus.com/Z_Virus.zip
+  type: remake
+  updated: 2015-10-09
+  url: http://www.blitzbasic.com/Community/posts.php?topic=38995
 
-- name: [Z, Z (video game)]
-  remakes:
-  - name: The Zod Engine
-    url: http://zod.sourceforge.net/
-    repo: http://sourceforge.net/projects/zod/files/
-    development: active
-    images:
-    - http://zod.sourceforge.net/screenshots/gameplay_13.png
-    video:
-      youtube: 8VehUvuWHqw
+- name: Z Virus V2
+  lang:
+  - Blitz BASIC
+  license:
+  - As-is
+  originals:
+  - Zarch
+  repo: http://www.steviegoodwin.plus.com/Z_Virus_V2.zip
+  type: remake
+  updated: 2015-10-09
 
-- name: Zoop
-  remakes:
-  - name: KZap
-    updated: 2015-05-09
-    url: http://kzap.sourceforge.net/
-    repo: http://prdownloads.sourceforge.net/kzap/kzap-0.2.tar.gz
-    development: halted
-    lang: C++
-    license: [GPL2]
-    images:
-    - http://kzap.sourceforge.net/kzap.png
-  - name: Zoop
-    updated: 2015-05-09
-    url: http://gamesoft.ca/remakes.html
-    repo: http://gamesoft.ca/bestgames/zoop_src.zip
-    lang: Java
-    images:
-    - http://gamesoft.ca/bestgames/images/zoop_java.png
+- name: Zatacka X
+  framework:
+  - SDL
+  images:
+  - https://camo.githubusercontent.com/bf7621a6846244c8f74679220aae2e66f1e5a526/687474703a2f2f666f6c6b2e75696f2e6e6f2f73696d656e6865672f7a617461636b61785f736d616c6c2e706e67
+  info: Has powerups and AI.
+  lang:
+  - C
+  license:
+  - GPL3
+  development: sporadic
+  originals:
+  - Achtung, die Kurve!
+  repo: https://github.com/simenheg/zatackax
+  status: playable
+  type: remake
+  updated: 2017-10-28
 
-- name: [Zombie Apocalypse, 'http://www.mobygames.com/game/zombie-apocalypse']
-  remakes:
-  - name: zombie apocalypse html5
-    development: halted
-    framework: HTML5
-    lang: JavaScript
-    repo: https://github.com/andymason/zombie-apocalypse-html5
-    updated: 2015-05-16
+- name: Zaz
+  images:
+  - https://a.fsdn.com/con/app/proj/zaz/screenshots/234912.jpg
+  - https://a.fsdn.com/con/app/proj/zaz/screenshots/229087.jpg
+  - https://a.fsdn.com/con/app/proj/zaz/screenshots/271617.jpg
+  lang:
+  - C++
+  license:
+  - GPL3
+  development: halted
+  originals:
+  - Zuma
+  repo: https://sourceforge.net/projects/zaz/
+  type: remake
+  updated: 2015-04-14
+  url: http://zaz.sourceforge.net/
 
-- name: Zork
-  remakes:
-  - name: Zorkish
-    repo: https://github.com/jgardner8/Zorkish
-    updated: 2015-06-01
-    development: sporadic
-    lang: C++
+- name: ZDoom
+  images:
+  - http://zdoom.org/w/images/7/7e/AltHUD1.png
+  - http://zdoom.org/w/images/c/c4/DynamicLightOptions.png
+  - http://zdoom.org/w/images/8/8a/DOOM0003.png
+  lang:
+  - C
+  license:
+  - BSD
+  development: active
+  originals:
+  - Doom
+  - Heretic
+  - Hexen
+  repo: https://sourceforge.net/projects/zdoom/
+  type: remake
+  url: http://zdoom.org/
 
-- name: [Zuma, Zuma (video game)]
-  remakes:
-  - name: Zaz
-    updated: 2015-04-14
-    url: http://zaz.sourceforge.net/
-    repo: https://zaz.svn.sourceforge.net/svnroot/zaz
-    development: halted
-    lang: C++
-    license: [GPL3]
-    images:
-    - https://a.fsdn.com/con/app/proj/zaz/screenshots/234912.jpg
-    - https://a.fsdn.com/con/app/proj/zaz/screenshots/229087.jpg
-    - https://a.fsdn.com/con/app/proj/zaz/screenshots/271617.jpg
+- name: zedragon
+  lang:
+  - Assembly
+  license:
+  - MIT
+  development: active
+  originals:
+  - Sea Dragon
+  repo: https://github.com/charlierobson/zedragon
+  type: remake
+  updated: 2017-12-12
 
+- name: Zed Online
+  originals:
+  - Z
+  type: remake
+  repo: https://sourceforge.net/projects/zedonline/
+  url: https://zzone.lewe.com/zed-online-game/
+  development: active
+  status: playable
+  multiplayer:
+  - Online
+  - LAN
+  content: free
+  lang:
+  - C++
+  license:
+  - GPL3
+  updated: 2019-09-17
+  images:
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%288%29.png/245/183/1
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2842%29.png/245/183/1
+  - https://a.fsdn.com/con/app/proj/zedonline/screenshots/Screenshot%20%2811%29.png/245/183/1
+  video:
+    youtube: RKmKpTe-gVo
+
+- name: Zelda Classic
+  originals:
+  - Legend of Zelda
+  type: remake
+  repo: 'https://github.com/ArmageddonGames/ZeldaClassic'
+  url: 'https://www.zeldaclassic.com/'
+  feed: 'https://www.zeldaclassic.com/feed/'
+  development: active
+  status: playable
+  content: swappable
+  lang:
+  - C++
+  framework:
+  - Allegro
+  license:
+  - GPL3
+  info: >-
+    Zelda Classic is a game and editing tool that lets you create custom Legend of
+    Zelda quests.
+  updated: '2019-11-19'
+  images:
+  - 'https://www.zeldaclassic.com/wp-content/uploads/2016/12/ss_bszelda.png'
+  - >-
+    https://www.zeldaclassic.com/wp-content/uploads/2016/12/ss_megaman_wilys_revenge.gif
+  - 'https://www.zeldaclassic.com/wp-content/uploads/2016/12/ss_hero_dreams.png'
+  - 'https://www.zeldaclassic.com/wp-content/uploads/2016/12/ss_quest744.png'
+
+- name: Zero-K
+  type: similar
+  lang:
+  - C#
+  - Lua
+  license:
+  - GPL2
+  development: active
+  originals:
+  - Total Annihilation
+  - Supreme Commander
+  status: playable
+  repo: https://github.com/ZeroK-RTS
+  url: https://zero-k.info/
+  video:
+    youtube: dyhzqcf7NJM
+  updated: 2019-10-21
+
+- name: Zod Engine
+  images:
+  - http://zod.sourceforge.net/screenshots/gameplay_13.png
+  license:
+  - GPL3
+  development: active
+  originals:
+  - Z
+  repo: http://sourceforge.net/projects/zod/
+  type: remake
+  url: http://zod.sourceforge.net/
+  video:
+    youtube: 8VehUvuWHqw
+  updated: 2018-10-06
+
+- name: zombie apocalypse html5
+  lang:
+  - JavaScript
+  license:
+  - As-is
+  development: halted
+  originals:
+  - Zombie Apocalypse
+  repo: https://github.com/andymason/zombie-apocalypse-html5
+  type: remake
+  updated: 2015-05-16
+
+- name: zorkClone
+  lang:
+  - Java
+  license:
+  - Apache
+  development: active
+  originals:
+  - Zork
+  repo: https://github.com/vatbub/zorkClone
+  type: remake
+  updated: 2015-10-01
+
+- name: Zorkish
+  lang:
+  - C++
+  license:
+  - As-is
+  development: halted
+  originals:
+  - Zork
+  repo: https://github.com/jgardner8/Zorkish
+  type: remake
+  updated: 2015-06-01
+
+- name: zSILENCER
+  framework:
+  - SDL2
+  images:
+  - http://zsilencer.com/ss9.png
+  - http://zsilencer.com/ss1.png
+  lang:
+  - C++
+  license:
+  - As-is
+  development: halted
+  originals:
+  - Silencer
+  repo: https://github.com/zsilencer/zSILENCER
+  status: playable
+  type: remake
+  updated: 2013-09-22
+  url: http://zsilencer.com/
+  video:
+    youtube: mojUQUONp4M

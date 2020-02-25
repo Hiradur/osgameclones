@@ -1,0 +1,183 @@
+- name: E.T. the Extra-Terrestrial
+  external:
+    wikipedia: E.T. the Extra-Terrestrial (video game)
+  meta:
+    genre:
+    - Arcade
+    - Adventure
+
+- name: Earth Shaker
+  external:
+    wikipedia: Earth Shaker (video game)
+  meta:
+    genre:
+    - Puzzle
+
+- name: Eat The Whistle
+  external:
+    wikipedia: Eat the whistle (video game)
+  meta:
+    genre:
+    - Sports
+    subgenre:
+    - Soccer
+
+- name: Echochrome
+  external:
+    wikipedia: Echochrome
+  meta:
+    genre:
+    - Puzzle
+  names:
+  - "Mugen Kair\u014D"
+  - "\u7121\u9650\u56DE\u5ECA"
+
+- name: Elasto Mania
+  external:
+    wikipedia: Elasto Mania
+  meta:
+    genre:
+    - Platform
+
+- name: Elements
+  external:
+    website: http://www.mobygames.com/game/browser/elements_
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Elite
+  external:
+    wikipedia: Elite_(video_game)
+  meta:
+    genre:
+    - Action
+    - Simulation
+    subgenre:
+    - Flight Simulator
+    theme:
+    - Sci-Fi
+
+- name: Elite II
+  external:
+    wikipedia: 'Frontier: Elite II'
+  meta:
+    genre:
+    - Action
+    - Simulation
+    subgenre:
+    - Flight Simulator
+    theme:
+    - Sci-Fi
+    - Espionage
+
+- name: Elite III
+  external:
+    wikipedia: 'Frontier: First Encounters'
+  meta:
+    genre:
+    - Action
+    - Simulation
+    subgenre:
+    - Flight Simulator
+    theme:
+    - Sci-Fi
+    - Espionage
+  names:
+  - 'Frontier: First Encounters'
+  - FFE
+
+- name: Emperor of the Fading Suns
+  external:
+    wikipedia: Emperor of the Fading Suns
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Encounter
+  external:
+    wikipedia: Encounter (video game)
+  meta:
+    genre:
+    - Shmup
+
+- name: Enduro
+  external:
+    wikipedia: Enduro (video game)
+  platform:
+  - Atari
+  - ZX Spectrum
+  meta:
+    genre:
+    - Racing
+
+- name: Enemy Engaged
+  names:
+  - 'Enemy Engaged: Apache vs Havoc'
+  - 'Enemy Engaged: RAH-66 Comanche vs. KA-52 Hokum'
+  external:
+    wikipedia: Enemy Engaged
+  platform:
+  - Windows
+  - OSX
+  meta:
+    genre:
+    - Simulation
+    subgenre:
+    - Flight Simulator
+    theme:
+    - Modern Military
+
+- name: Entombed!
+  external:
+    wikipedia: Entombed (1982 video game)
+  meta:
+    genre:
+    - Adventure
+
+- name: Escape from Colditz
+  external:
+    wikipedia: Escape from Colditz
+  meta:
+    genre:
+    - Action
+    - Adventure
+
+- name: Escape from Monkey Island
+  external:
+    wikipedia: Escape from Monkey Island
+  meta:
+    genre:
+    - Adventure
+
+- name: Escape Velocity
+  external:
+    wikipedia: Escape Velocity (video game)
+  meta:
+    genre:
+    - Action
+    - Simulation
+
+- name: Exile 1988
+  external:
+    wikipedia: Exile_(1988_video_game)
+  meta:
+    genre:
+    - Action
+    - Adventure
+
+- name: Exolon
+  external:
+    wikipedia: Exolon
+  meta:
+    genre:
+    - Shmup
+
+- name: Eye of the Beholder II
+  external:
+    wikipedia: Eye of the Beholder II
+  meta:
+    genre:
+    - RPG
+    - Action
+

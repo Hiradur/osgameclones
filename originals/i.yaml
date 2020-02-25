@@ -1,0 +1,66 @@
+- name: Icewind Dale
+  names:
+  - 'Icewind Dale: Heart of Winter'
+  - Icewind Dale II
+  external:
+    wikipedia: Icewind Dale
+  meta:
+    genre:
+    - RPG
+    theme:
+    - Fantasy
+    - Medieval
+
+- name: Imperialism
+  external:
+    wikipedia: Imperialism (video game)
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Imperium Galactica
+  external:
+    wikipedia: Imperium Galactica
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Incredible Toons
+  external:
+    wikipedia: Incredible Toons
+  meta:
+    genre:
+    - Puzzle
+    - Simulation
+
+- name: Indiana Jones and his Desktop Adventures
+  external:
+    wikipedia: Indiana Jones and his Desktop Adventures
+  meta:
+    genre:
+    - RPG
+
+- name: Infinity Loop
+  external:
+    website: http://loopgame.co
+  meta:
+    genre:
+    - Puzzle
+
+- name: Interstate '76
+  external:
+    wikipedia: Interstate '76
+  meta:
+    genre:
+    - Action
+    - Racing
+    theme:
+    - Post-Apocalyptic
+
+- name: Iron Seed
+  external:
+    wikipedia: Iron Seed
+  meta:
+    genre:
+    - Real-Time Strategy
+

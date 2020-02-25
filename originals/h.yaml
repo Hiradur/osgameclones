@@ -1,0 +1,145 @@
+- name: Hack
+  external:
+    wikipedia: Hack (video game)
+  meta:
+    genre:
+    - Roguelike
+
+- name: Hardwar
+  external:
+    wikipedia: Hardwar (video game)
+  meta:
+    genre:
+    - Action
+    - Simulation
+    subgenre:
+    - Flight Simulator
+    theme:
+    - Sci-Fi
+    - Cyberpunk
+
+- name: Haunted House
+  external:
+    wikipedia: Haunted House
+  meta:
+    genre:
+    - Action
+    - Adventure
+    subgenre:
+    - Survival
+    theme:
+    - Horror
+
+- name: Head over Heels
+  external:
+    wikipedia: Head over Heels (video game)
+  meta:
+    genre:
+    - Platform
+
+- name: Heart of Darkness
+  external:
+    wikipedia: Heart of Darkness (video game)
+  meta:
+    genre:
+    - Platform
+    - Adventure
+
+- name: Heavy Smash
+  external:
+    website: http://www.mobygames.com/game/arcade/heavy-smash
+  meta:
+    genre:
+    - Sports
+    subgenre:
+    - Handball
+    theme:
+    - Sci-Fi
+
+- name: Heretic
+  external:
+    wikipedia: Heretic (video game)
+  meta:
+    genre:
+    - FPS
+
+- name: Heroes of Might and Magic II
+  external:
+    wikipedia: Heroes of Might and Magic II
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Heroes of Might and Magic III
+  external:
+    wikipedia: Heroes of Might and Magic III
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Herzog Zwei
+  external:
+    wikipedia: Herzog Zwei
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: Hexen
+  external:
+    wikipedia: Hexen
+  meta:
+    genre:
+    - FPS
+
+- name: Hexen II
+  external:
+    wikipedia: Hexen II
+  meta:
+    genre:
+    - FPS
+
+- name: Highway Encounter
+  external:
+    wikipedia: Highway Encounter
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: 'History Line: 1914-1918'
+  external:
+    wikipedia: 'History Line: 1914-1918'
+  meta:
+    genre:
+    - Strategy
+    - Turn-Based Tactics
+    theme:
+    - World War I
+    
+- name: Hogs of War
+  external:
+    wikipedia: Hogs of War
+  meta:
+    genre:
+    - Turn-Based Strategy
+
+- name: Homeworld
+  external:
+    wikipedia: Homeworld
+  meta:
+    genre:
+    - Real-Time Strategy
+
+- name: HoverRace
+  external:
+    wikipedia: HoverRace
+  meta:
+    genre:
+    - Racing
+
+- name: Hovertank 3D
+  external:
+    wikipedia: Hovertank 3D
+  meta:
+    genre:
+    - FPS
+

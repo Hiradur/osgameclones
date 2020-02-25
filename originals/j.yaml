@@ -1,0 +1,125 @@
+- name: Jack in the Dark
+  external:
+    wikipedia: Jack in the Dark
+  meta:
+    genre:
+    - Action
+    - Adventure
+    theme:
+    - Horror
+    - Alternate Historical
+
+- name: Jade Empire
+  external:
+    wikipedia: Jade Empire
+  meta:
+    genre:
+    - RPG
+    theme:
+    - Martial Arts
+
+- name: Jagged Alliance 2
+  external:
+    wikipedia: Jagged Alliance 2
+  meta:
+    genre:
+    - RPG
+    - Strategy
+    - Turn-Based Tactics
+    theme:
+    - Sci-Fi
+    - Modern Military
+
+- name: Jazz Jackrabbit
+  external:
+    wikipedia: Jazz Jackrabbit
+  meta:
+    genre:
+    - Platform
+
+- name: Jazz Jackrabbit 2
+  external:
+    wikipedia: Jazz Jackrabbit 2
+  meta:
+    genre:
+    - Platform
+
+- name: 'Jedi Knight II: Jedi Outcast'
+  external:
+    wikipedia: 'Jedi Knight II: Jedi Outcast'
+  meta:
+    genre:
+    - FPS
+    - TPS
+
+- name: 'Jedi Knight: Jedi Academy'
+  external:
+    wikipedia: 'Jedi Knight: Jedi Academy'
+  meta:
+    genre:
+    - FPS
+    - TPS
+
+- name: Jet-Story
+  external:
+    wikipedia: Jet-Story
+  meta:
+    genre:
+    - Platform
+
+- name: Jetpac
+  external:
+    wikipedia: Jetpac
+  meta:
+    genre:
+    - Arcade
+
+- name: Jewel Thief
+  external:
+    website: http://www.mobygames.com/game/win3x/jewel-thief
+  meta:
+    genre:
+    - Arcade
+
+- name: JezzBall
+  external:
+    wikipedia: JezzBall
+  meta:
+    genre:
+    - Arcade
+
+- name: Joust
+  external:
+    wikipedia: Joust (video game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Jump 'n Bump
+  external:
+    wikipedia: Jump 'n Bump
+  meta:
+    genre:
+    - Platform
+
+- name: 'Jumpgate: The Reconstruction Initiative'
+  external:
+    wikipedia: 'Jumpgate: The Reconstruction Initiative'
+  meta:
+    genre:
+    - MMORPG
+
+- name: Jumping Jack
+  external:
+    wikipedia: Jumping Jack (Arcade game)
+  meta:
+    genre:
+    - Arcade
+
+- name: Jumpman
+  external:
+    wikipedia: Jumpman
+  meta:
+    genre:
+    - Platform
+
